@@ -1,0 +1,197 @@
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="pohsuchen1115.github.io/dining" resolutions="1x,2x" timestamp="1555257127620">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="302584088" ref="index"/>
+    <file name="dining-installation.css" crc="4011607644" ref="dining-installation"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:dining-installation"/>
+    <file name="museutils.js" crc="340535759" ref="index:dining-installation"/>
+    <file name="whatinput.js" crc="86476730" ref="index:dining-installation"/>
+    <file name="museconfig.js" crc="4286661555" ref="index:dining-installation"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:dining-installation"/>
+    <file name="require.js" crc="7928878" ref="index:dining-installation"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="dining-installation"/>
+    <file name="webpro.js" crc="4059564322" ref="dining-installation"/>
+    <file name="musewpslideshow.js" crc="3862962738" ref="dining-installation"/>
+    <file name="jquery.museoverlay.js" crc="4147669564" ref="dining-installation"/>
+    <file name="touchswipe.js" crc="4075097462" ref="dining-installation"/>
+    <file name="jquery.scrolleffects.js" crc="39568856" ref="dining-installation"/>
+  </folder>
+  <folder name="images">
+    <file name="未命名-10.jpg" crc="382359359" ref="dining-installation">
+      <caption webpage="dining-installation" alt=""/>
+    </file>
+    <file name="soin.png" crc="4038347970" seo="true" ref="dining-installation">
+      <caption webpage="dining-installation" alt=""/>
+    </file>
+    <file name="soin_2x.png" crc="80161372" seo="true" ref="dining-installation">
+      <caption webpage="dining-installation" alt=""/>
+    </file>
+    <file name="title.png" crc="498035851" seo="true" ref="dining-installation">
+      <caption webpage="dining-installation" alt=""/>
+    </file>
+    <file name="title_2x.png" crc="4171228724" seo="true" ref="dining-installation">
+      <caption webpage="dining-installation" alt=""/>
+    </file>
+    <file name="未命名-4.png" crc="4018756879" seo="true" ref="dining-installation">
+      <caption webpage="dining-installation" alt=""/>
+    </file>
+    <file name="未命名-4_2x.png" crc="248456823" seo="true" ref="dining-installation">
+      <caption webpage="dining-installation" alt=""/>
+    </file>
+    <file name="未命名-1.jpg" crc="3779089746" seo="true" ref="dining-installation">
+      <caption webpage="dining-installation" alt=""/>
+    </file>
+    <file name="未命名-1_2x.jpg" crc="426474885" seo="true" ref="dining-installation">
+      <caption webpage="dining-installation" alt=""/>
+    </file>
+    <file name="img_9882.jpg" crc="187457500" seo="true" ref="dining-installation">
+      <caption webpage="dining-installation" alt=""/>
+    </file>
+    <file name="img_9882_2x.jpg" crc="3882308777" seo="true" ref="dining-installation">
+      <caption webpage="dining-installation" alt=""/>
+    </file>
+    <file name="sketch.png" crc="4188451400" seo="true" ref="dining-installation">
+      <caption webpage="dining-installation" alt=""/>
+    </file>
+    <file name="sketch_2x.png" crc="3835093341" seo="true" ref="dining-installation">
+      <caption webpage="dining-installation" alt=""/>
+    </file>
+    <file name="未命名-8.png" crc="38299177" seo="true" ref="dining-installation">
+      <caption webpage="dining-installation" alt=""/>
+    </file>
+    <file name="未命名-8_2x.png" crc="4126903423" seo="true" ref="dining-installation">
+      <caption webpage="dining-installation" alt=""/>
+    </file>
+    <file name="未命名-9.png" crc="4266964304" seo="true" ref="dining-installation">
+      <caption webpage="dining-installation" alt=""/>
+      <caption webpage="dining-installation" alt=""/>
+    </file>
+    <file name="未命名-9_2x.png" crc="3827983217" seo="true" ref="dining-installation">
+      <caption webpage="dining-installation" alt=""/>
+      <caption webpage="dining-installation" alt=""/>
+    </file>
+    <file name="螢幕快照 2019-03-20 下午82525.jpg" crc="3843894014" seo="true" ref="dining-installation">
+      <caption webpage="dining-installation" alt=""/>
+    </file>
+    <file name="螢幕快照 2019-03-20 下午82525_2x.jpg" crc="4017617687" seo="true" ref="dining-installation">
+      <caption webpage="dining-installation" alt=""/>
+    </file>
+    <file name="coding.png" crc="483237787" seo="true" ref="dining-installation">
+      <caption webpage="dining-installation" alt=""/>
+    </file>
+    <file name="coding_2x.png" crc="4034217976" seo="true" ref="dining-installation">
+      <caption webpage="dining-installation" alt=""/>
+    </file>
+    <file name="未命名-7.png" crc="284411588" seo="true" ref="dining-installation">
+      <caption webpage="dining-installation" alt=""/>
+    </file>
+    <file name="未命名-7_2x.png" crc="26863822" seo="true" ref="dining-installation">
+      <caption webpage="dining-installation" alt=""/>
+    </file>
+    <file name="img_9041.jpg" crc="268489736" seo="true" ref="dining-installation">
+      <caption webpage="dining-installation" alt=""/>
+    </file>
+    <file name="img_9041_2x.jpg" crc="3978772500" seo="true" ref="dining-installation">
+      <caption webpage="dining-installation" alt=""/>
+    </file>
+    <file name="img_8911.jpg" crc="4136980297" seo="true" ref="dining-installation">
+      <caption webpage="dining-installation" alt=""/>
+    </file>
+    <file name="img_8911_2x.jpg" crc="234114164" seo="true" ref="dining-installation">
+      <caption webpage="dining-installation" alt=""/>
+    </file>
+    <file name="img_9042拷貝.jpg" crc="4033510614" seo="true" ref="dining-installation">
+      <caption webpage="dining-installation" alt=""/>
+    </file>
+    <file name="img_9042拷貝_2x.jpg" crc="125099760" seo="true" ref="dining-installation">
+      <caption webpage="dining-installation" alt=""/>
+    </file>
+    <file name="img_1122拷貝.jpg" crc="84983652" seo="true" ref="dining-installation">
+      <caption webpage="dining-installation" alt=""/>
+    </file>
+    <file name="img_1122拷貝_2x.jpg" crc="256153334" seo="true" ref="dining-installation">
+      <caption webpage="dining-installation" alt=""/>
+    </file>
+    <file name="model.png" crc="4035099165" seo="true" ref="dining-installation">
+      <caption webpage="dining-installation" alt=""/>
+    </file>
+    <file name="model_2x.png" crc="377662177" seo="true" ref="dining-installation">
+      <caption webpage="dining-installation" alt=""/>
+    </file>
+    <file name="未命名-6.png" crc="431120250" seo="true" ref="dining-installation">
+      <caption webpage="dining-installation" alt=""/>
+    </file>
+    <file name="未命名-6_2x.png" crc="4235723035" seo="true" ref="dining-installation">
+      <caption webpage="dining-installation" alt=""/>
+    </file>
+    <file name="螢幕快照 2019-01-03 上午51908.jpg" crc="3792869193" seo="true" ref="dining-installation">
+      <caption webpage="dining-installation" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="dining-installation"/>
+    <file name="螢幕快照 2019-01-05 上午21905.jpg" crc="179741700" seo="true" ref="dining-installation">
+      <caption webpage="dining-installation" alt=""/>
+    </file>
+    <file name="螢幕快照 2019-03-19 下午114345.jpg" crc="517542895" seo="true" ref="dining-installation">
+      <caption webpage="dining-installation" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="dining-installation"/>
+    <file name="design.png" crc="3860195398" seo="true" ref="dining-installation">
+      <caption webpage="dining-installation" alt=""/>
+    </file>
+    <file name="design_2x.png" crc="3789024231" seo="true" ref="dining-installation">
+      <caption webpage="dining-installation" alt=""/>
+    </file>
+    <file name="rights.png" crc="439214979" seo="true" ref="dining-installation">
+      <caption webpage="dining-installation" alt=""/>
+    </file>
+    <file name="rights_2x.png" crc="443231054" seo="true" ref="dining-installation">
+      <caption webpage="dining-installation" alt=""/>
+    </file>
+    <file name="logo1.png" crc="3916646390" seo="true" ref="dining-installation">
+      <caption webpage="dining-installation" alt=""/>
+    </file>
+    <file name="logo1_2x.png" crc="4037566950" seo="true" ref="dining-installation">
+      <caption webpage="dining-installation" alt=""/>
+    </file>
+    <file name="logo2.png" crc="477257094" seo="true" ref="dining-installation">
+      <caption webpage="dining-installation" alt=""/>
+    </file>
+    <file name="logo2_2x.png" crc="3813125036" seo="true" ref="dining-installation">
+      <caption webpage="dining-installation" alt=""/>
+    </file>
+    <file name="logo3.png" crc="304136943" seo="true" ref="dining-installation">
+      <caption webpage="dining-installation" alt=""/>
+    </file>
+    <file name="logo3_2x.png" crc="3948685638" seo="true" ref="dining-installation">
+      <caption webpage="dining-installation" alt=""/>
+    </file>
+    <file name="螢幕快照 2019-03-19 下午114235.jpg" crc="3853050302" seo="true" ref="dining-installation">
+      <caption webpage="dining-installation" alt=""/>
+    </file>
+    <file name="螢幕快照 2019-03-19 下午114235_2x.jpg" crc="3810602018" seo="true" ref="dining-installation">
+      <caption webpage="dining-installation" alt=""/>
+    </file>
+    <file name="未命名-5.png" crc="233188300" seo="true" ref="dining-installation">
+      <caption webpage="dining-installation" alt=""/>
+    </file>
+    <file name="未命名-5_2x.png" crc="226572337" seo="true" ref="dining-installation">
+      <caption webpage="dining-installation" alt=""/>
+    </file>
+    <file name="eat.png" crc="401330297" seo="true" ref="dining-installation">
+      <caption webpage="dining-installation" alt=""/>
+    </file>
+    <file name="eat_2x.png" crc="4122815611" seo="true" ref="dining-installation">
+      <caption webpage="dining-installation" alt=""/>
+    </file>
+    <file name="eat2.png" crc="3962329127" seo="true" ref="dining-installation">
+      <caption webpage="dining-installation" alt=""/>
+    </file>
+    <file name="eat2_2x.png" crc="3923435793" seo="true" ref="dining-installation">
+      <caption webpage="dining-installation" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="316660945" seo="true" mt="1554370686188" redirect="false"/>
+  <file name="dining-installation.html" crc="4022040193" seo="true" mt="1555246919950" redirect="true"/>
+</manifest>
