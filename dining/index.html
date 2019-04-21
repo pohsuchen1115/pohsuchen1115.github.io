@@ -16,7 +16,7 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
   <title>Dining - Pohsu Chen</title>
   <!-- CSS -->
   <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=444006867"/>
-  <link rel="stylesheet" type="text/css" href="css/index.css?crc=374799227" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/index.css?crc=448428344" id="pagesheet"/>
    </head>
  <body>
 
@@ -40,9 +40,7 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
        <div class="clearfix grpelem" id="u1113-4"><!-- content -->
         <p><span id="u1113">Projects</span></p>
        </div>
-       <div class="clearfix grpelem" id="u1119-4"><!-- content -->
-        <p><span id="u1119">Info</span></p>
-       </div>
+       <a class="nonblock nontext clearfix grpelem" id="u1119-4" href="https://pohsuchen1115.github.io/info"><!-- content --><p><span id="u1119">Info</span></p></a>
        <div class="clearfix grpelem" id="u1122-4"><!-- content -->
         <p><span id="u1122">Contact</span></p>
        </div>
@@ -221,7 +219,7 @@ Muse.Utils.makeButtonsVisibleAfterSettingMinWidth();/* body */
 Muse.Utils.initWidget('#slideshowu690', ['#bp_infinity'], function(elem) { var widget = new WebPro.Widget.ContentSlideShow(elem, {autoPlay:true,displayInterval:3000,slideLinkStopsSlideShow:false,transitionStyle:'horizontal',lightboxEnabled_runtime:false,shuffle:false,transitionDuration:1000,enableSwipe:false,elastic:'fullWidth',resumeAutoplay:true,resumeAutoplayInterval:2000,playOnce:false,autoActivate_runtime:false,isResponsive:false}); $(elem).data('widget', widget); return widget; });/* #slideshowu690 */
 Muse.Utils.initWidget('#slideshowu313', ['#bp_infinity'], function(elem) { var widget = new WebPro.Widget.ContentSlideShow(elem, {autoPlay:true,displayInterval:1000,slideLinkStopsSlideShow:false,transitionStyle:'fading',lightboxEnabled_runtime:false,shuffle:false,transitionDuration:1500,enableSwipe:false,elastic:'off',resumeAutoplay:true,resumeAutoplayInterval:1000,playOnce:false,autoActivate_runtime:false,isResponsive:false}); $(elem).data('widget', widget); return widget; });/* #slideshowu313 */
 Muse.Utils.fullPage('#page');/* 100% height page */
-$('#u933').registerBackgroundPositionScrollEffect([{"in":[-Infinity,0],"speed":[0,0.9]},{"in":[0,Infinity],"speed":[0,0.9]}]);/* scroll effect */
+$('#u933').registerBackgroundPositionScrollEffect([{"speed":[0,0.9],"in":[-Infinity,0]},{"speed":[0,0.9],"in":[0,Infinity]}]);/* scroll effect */
 Muse.Utils.showWidgetsWhenReady();/* body */
 Muse.Utils.transformMarkupToFixBrowserProblems();/* body */
 }catch(b){if(b&&"function"==typeof b.notify?b.notify():Muse.Assert.fail("Error calling selector function: "+b),false)throw b;}})})};
