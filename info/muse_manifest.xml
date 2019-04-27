@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="pohsuchen1115.github.io/#info" resolutions="1x,2x" timestamp="1556381398020">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="pohsuchen1115.github.io/#info" resolutions="1x,2x" timestamp="1556381442400">
   <folder name="images">
     <file name="rights.png" crc="439214979" seo="true" ref="index">
       <caption webpage="index" alt=""/>
@@ -20,6 +20,6 @@
     <file name="jquery.watch.js" crc="51536988" ref="index:未命名-2"/>
     <file name="require.js" crc="7928878" ref="index:未命名-2"/>
   </folder>
-  <file name="index.html" crc="397770379" seo="true" mt="1556363870585" redirect="true"/>
+  <file name="index.html" crc="397770379" seo="true" mt="1556381430208" redirect="true"/>
   <file name="未命名-2.html" crc="3950407039" seo="true" mt="1556349460406" redirect="false"/>
 </manifest>
