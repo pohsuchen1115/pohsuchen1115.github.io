@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="pohsuchen1115.github.io/#dining" resolutions="1x,2x" timestamp="1556349885247">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="pohsuchen1115.github.io/#dining" resolutions="1x,2x" timestamp="1556350063171">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="448428344" ref="index"/>
+    <file name="index.css" crc="138888316" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -249,5 +249,5 @@
       <caption webpage="dining-installation" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="196323140" seo="true" mt="1556349861046" redirect="true"/>
+  <file name="index.html" crc="60239279" seo="true" mt="1556350039540" redirect="true"/>
 </manifest>
