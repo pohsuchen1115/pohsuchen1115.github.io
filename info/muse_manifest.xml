@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="pohsuchen1115.github.io/#info" resolutions="1x,2x" timestamp="1556381442400">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="pohsuchen1115.github.io/#info" resolutions="1x,2x" timestamp="1556389095397">
   <folder name="images">
     <file name="rights.png" crc="439214979" seo="true" ref="index">
       <caption webpage="index" alt=""/>
@@ -8,9 +8,9 @@
     </file>
   </folder>
   <folder name="css">
-    <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="41360912" ref="index"/>
-    <file name="___-2.css" crc="302584088" ref="未命名-2"/>
+    <file name="site_global.css" crc="3957467806"/>
+    <file name="index.css" crc="4216441650" ref="index"/>
+    <file name="___-2.css" crc="325970359" ref="未命名-2"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:未命名-2"/>
@@ -20,6 +20,6 @@
     <file name="jquery.watch.js" crc="51536988" ref="index:未命名-2"/>
     <file name="require.js" crc="7928878" ref="index:未命名-2"/>
   </folder>
-  <file name="index.html" crc="397770379" seo="true" mt="1556381430208" redirect="true"/>
-  <file name="未命名-2.html" crc="3950407039" seo="true" mt="1556349460406" redirect="false"/>
+  <file name="index.html" crc="4049402533" seo="true" mt="1556389087833" redirect="true"/>
+  <file name="未命名-2.html" crc="366624634" seo="true" mt="1556388983148" redirect="true"/>
 </manifest>
