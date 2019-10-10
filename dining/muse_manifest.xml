@@ -1,32 +1,25 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="pohsuchen1115.github.io/#dining" resolutions="1x,2x" timestamp="1556793900526">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="pohsuchen1115.github.io/#dining" resolutions="1x,2x" timestamp="1570733459610">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="12645050" ref="index"/>
+    <file name="index.css" crc="3883876304" ref="index"/>
+    <file name="the-lone-ranger.css" crc="4168831543" ref="the-lone-ranger"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
-    <file name="museutils.js" crc="340535759" ref="index"/>
-    <file name="whatinput.js" crc="86476730" ref="index"/>
-    <file name="museconfig.js" crc="4286661555" ref="index"/>
-    <file name="jquery.watch.js" crc="51536988" ref="index"/>
-    <file name="require.js" crc="7928878" ref="index"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:the-lone-ranger"/>
+    <file name="museutils.js" crc="340535759" ref="index:the-lone-ranger"/>
+    <file name="whatinput.js" crc="86476730" ref="index:the-lone-ranger"/>
+    <file name="museconfig.js" crc="4286661555" ref="index:the-lone-ranger"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:the-lone-ranger"/>
+    <file name="require.js" crc="7928878" ref="index:the-lone-ranger"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index:the-lone-ranger"/>
     <file name="webpro.js" crc="4059564322" ref="index"/>
     <file name="musewpslideshow.js" crc="3862962738" ref="index"/>
     <file name="jquery.museoverlay.js" crc="4147669564" ref="index"/>
     <file name="touchswipe.js" crc="4075097462" ref="index"/>
-    <file name="jquery.scrolleffects.js" crc="39568856" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="39568856" ref="index:the-lone-ranger"/>
   </folder>
   <folder name="images">
     <file name="未命名-10.jpg" crc="382359359" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="dining-installation" alt=""/>
-    </file>
-    <file name="soin.png" crc="4038347970" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="dining-installation" alt=""/>
-    </file>
-    <file name="soin_2x.png" crc="80161372" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="dining-installation" alt=""/>
     </file>
@@ -248,6 +241,19 @@
       <caption webpage="index" alt=""/>
       <caption webpage="dining-installation" alt=""/>
     </file>
+    <file name="poster-01.jpg" crc="173820154" ref="the-lone-ranger">
+      <caption webpage="the-lone-ranger" alt=""/>
+    </file>
+    <file name="poster-01_2x.jpg" crc="3974612390" ref="the-lone-ranger">
+      <caption webpage="the-lone-ranger" alt=""/>
+    </file>
+    <file name="title2.png" crc="3841893212" seo="true" ref="the-lone-ranger">
+      <caption webpage="the-lone-ranger" alt=""/>
+    </file>
+    <file name="title_2x2.png" crc="506910909" seo="true" ref="the-lone-ranger">
+      <caption webpage="the-lone-ranger" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="3985798976" seo="true" mt="1556793883938" redirect="true"/>
+  <file name="index.html" crc="150424724" seo="true" mt="1570733443079" redirect="true"/>
+  <file name="the-lone-ranger.html" crc="4270008918" seo="true" mt="1563000380370" redirect="true"/>
 </manifest>
