@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="pohsuchen1115.github.io/#dining" resolutions="1x,2x" timestamp="1570733459610">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="pohsuchen1115.github.io/#dining" resolutions="1x,2x" timestamp="1570733584127">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="index.css" crc="3883876304" ref="index"/>
@@ -254,6 +254,6 @@
       <caption webpage="the-lone-ranger" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="150424724" seo="true" mt="1570733443079" redirect="true"/>
+  <file name="index.html" crc="341142077" seo="true" mt="1570733540406" redirect="true"/>
   <file name="the-lone-ranger.html" crc="4270008918" seo="true" mt="1563000380370" redirect="true"/>
 </manifest>
