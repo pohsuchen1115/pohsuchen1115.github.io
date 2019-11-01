@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="pohsuchen1115.github.io" resolutions="1x,2x" timestamp="1572069487223">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="pohsuchen1115.github.io" resolutions="1x,2x" timestamp="1572604524210">
   <folder name="css">
     <file name="site_global.css" crc="3957467806"/>
-    <file name="index.css" crc="3895376823" ref="index"/>
+    <file name="index.css" crc="426341140" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -72,6 +72,12 @@
     <file name="graphic_2x.png" crc="4017780504" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="3-01111.jpg" crc="3839414283" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="3-01111_2x.jpg" crc="3854473834" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="433415007" seo="true" mt="1572069448131" redirect="true"/>
+  <file name="index.html" crc="3891058193" seo="true" mt="1572604440543" redirect="true"/>
 </manifest>
