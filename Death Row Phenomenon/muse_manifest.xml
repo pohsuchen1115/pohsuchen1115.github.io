@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="pohsuchen1115.github.io/#Deathrowphenomenon" resolutions="1x,2x" timestamp="1572623970802">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="pohsuchen1115.github.io/#Deathrowphenomenon" resolutions="1x,2x" timestamp="1572625213340">
   <folder name="css">
     <file name="site_global.css" crc="513467885"/>
-    <file name="index.css" crc="3977558929" ref="index"/>
+    <file name="index.css" crc="4102189553" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -10,15 +10,17 @@
     <file name="museconfig.js" crc="4286661555" ref="index"/>
     <file name="jquery.watch.js" crc="51536988" ref="index"/>
     <file name="require.js" crc="7928878" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="39568856" ref="index"/>
   </folder>
   <folder name="images">
-    <file name="1572607438604.jpg" crc="4129564948" seo="true" ref="index">
+    <file name="1572607438604.jpg" crc="4107873075" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="img_8659 2.jpg" crc="466808973" seo="true" ref="index">
+    <file name="img_8659 2.jpg" crc="202991360" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="img_8659 2_2x.jpg" crc="157784428" seo="true" ref="index">
+    <file name="img_8659 2_2x.jpg" crc="4210672118" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="po-01.jpg" crc="519629076" seo="true" ref="index">
@@ -51,6 +53,9 @@
     <file name="logo3_2x.png" crc="3948685638" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="1572607438604_2x.jpg" crc="4278356225" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="4276798543" seo="true" mt="1572623941421" redirect="true"/>
+  <file name="index.html" crc="4096267825" seo="true" mt="1572625202719" redirect="true"/>
 </manifest>
