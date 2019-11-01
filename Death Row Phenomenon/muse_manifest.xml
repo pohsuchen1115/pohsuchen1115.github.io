@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="pohsuchen1115.github.io/#Deathrowphenomenon" resolutions="1x,2x" timestamp="1572625213340">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="pohsuchen1115.github.io/#deathrowphenomenon" resolutions="1x,2x" timestamp="1572626004568">
   <folder name="css">
     <file name="site_global.css" crc="513467885"/>
     <file name="index.css" crc="4102189553" ref="index"/>
@@ -57,5 +57,5 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="4096267825" seo="true" mt="1572625202719" redirect="true"/>
+  <file name="index.html" crc="4183466982" seo="true" mt="1572625666383" redirect="true"/>
 </manifest>
