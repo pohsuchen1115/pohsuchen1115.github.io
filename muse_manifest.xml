@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="pohsuchen1115.github.io" resolutions="1x,2x" timestamp="1572626277365">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="pohsuchen1115.github.io" resolutions="1x,2x" timestamp="1572662007780">
   <folder name="css">
     <file name="site_global.css" crc="3957467806"/>
     <file name="index.css" crc="382898364" ref="index"/>
@@ -73,5 +73,5 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="292113672" seo="true" mt="1572626263850" redirect="true"/>
+  <file name="index.html" crc="390997403" seo="true" mt="1572661955925" redirect="true"/>
 </manifest>
