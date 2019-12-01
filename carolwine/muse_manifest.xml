@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="pohsuchen1115.github.io/#carolwine" resolutions="1x,2x" timestamp="1575189743029">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="pohsuchen1115.github.io/#carolwine" resolutions="1x,2x" timestamp="1575190532775">
   <folder name="css">
     <file name="site_global.css" crc="513467885"/>
-    <file name="index.css" crc="514630079" ref="index"/>
+    <file name="index.css" crc="14448108" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -13,10 +13,10 @@
     <file name="require.js" crc="7928878" ref="index"/>
   </folder>
   <folder name="images">
-    <file name="chia wei22222-01333333.jpg" crc="212452707" ref="index">
+    <file name="chia wei22222-01333333.jpg" crc="269126589" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="chia wei22222-01333333_2x.jpg" crc="229466722" ref="index">
+    <file name="chia wei22222-01333333_2x.jpg" crc="4142985973" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="chia wei22222--oifqfioq1.jpg" crc="413608089" seo="true" ref="index">
@@ -56,5 +56,5 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="3773909212" seo="true" mt="1575187312835" redirect="true"/>
+  <file name="index.html" crc="4068164092" seo="true" mt="1575190508545" redirect="true"/>
 </manifest>
