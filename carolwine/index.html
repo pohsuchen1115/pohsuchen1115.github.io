@@ -87,7 +87,7 @@ Muse.Utils.resizeHeight('.browser_width');/* resize height */
 Muse.Utils.requestAnimationFrame(function() { $('body').addClass('initialized'); });/* mark body as initialized */
 Muse.Utils.makeButtonsVisibleAfterSettingMinWidth();/* body */
 Muse.Utils.fullPage('#page');/* 100% height page */
-$('#u2116').registerBackgroundPositionScrollEffect([{"speed":[0,1],"in":[-Infinity,0]},{"speed":[0,1],"in":[0,Infinity]}]);/* scroll effect */
+$('#u2116').registerBackgroundPositionScrollEffect([{"speed":[0,0.9],"in":[-Infinity,0]},{"speed":[0,0.9],"in":[0,Infinity]}]);/* scroll effect */
 Muse.Utils.showWidgetsWhenReady();/* body */
 Muse.Utils.transformMarkupToFixBrowserProblems();/* body */
 }catch(b){if(b&&"function"==typeof b.notify?b.notify():Muse.Assert.fail("Error calling selector function: "+b),false)throw b;}})})};
