@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="pohsuchen1115.github.io/#carolwine" resolutions="1x,2x" timestamp="1575190532775">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="pohsuchen1115.github.io/#carolwine" resolutions="1x,2x" timestamp="1575190834371">
   <folder name="css">
     <file name="site_global.css" crc="513467885"/>
     <file name="index.css" crc="14448108" ref="index"/>
@@ -11,6 +11,7 @@
     <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index"/>
     <file name="jquery.watch.js" crc="51536988" ref="index"/>
     <file name="require.js" crc="7928878" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="39568856" ref="index"/>
   </folder>
   <folder name="images">
     <file name="chia wei22222-01333333.jpg" crc="269126589" ref="index">
@@ -56,5 +57,5 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="4068164092" seo="true" mt="1575190508545" redirect="true"/>
+  <file name="index.html" crc="4029408700" seo="true" mt="1575190805201" redirect="true"/>
 </manifest>
