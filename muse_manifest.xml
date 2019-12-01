@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="pohsuchen1115.github.io" resolutions="1x,2x" timestamp="1572662007780">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="pohsuchen1115.github.io" resolutions="1x,2x" timestamp="1575188230847">
   <folder name="css">
     <file name="site_global.css" crc="3957467806"/>
-    <file name="index.css" crc="382898364" ref="index"/>
+    <file name="index.css" crc="3939585998" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -10,6 +10,7 @@
     <file name="museconfig.js" crc="4286661555" ref="index"/>
     <file name="jquery.watch.js" crc="51536988" ref="index"/>
     <file name="require.js" crc="7928878" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index"/>
   </folder>
   <folder name="images">
     <file name="logo.png" crc="3777414413" seo="true" ref="index">
@@ -72,6 +73,12 @@
     <file name="img_8659 3_2x.jpg" crc="4115607318" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="未命名-3-01.jpg" crc="4086102208" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="未命名-3-01_2x.jpg" crc="416068738" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="390997403" seo="true" mt="1572661955925" redirect="true"/>
+  <file name="index.html" crc="4180202080" seo="true" mt="1575188192594" redirect="true"/>
 </manifest>
