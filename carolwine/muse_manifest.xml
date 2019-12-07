@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="pohsuchen1115.github.io/#carolwine" resolutions="1x,2x" timestamp="1575646784989">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="pohsuchen1115.github.io/#carolwine" resolutions="1x,2x" timestamp="1575723269523">
   <folder name="css">
     <file name="site_global.css" crc="513467885"/>
-    <file name="index.css" crc="92667170" ref="index"/>
+    <file name="index.css" crc="3874263985" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -12,16 +12,16 @@
     <file name="require.js" crc="7928878" ref="index"/>
   </folder>
   <folder name="images">
-    <file name="chia wei22222--oifqfioq1.jpg" crc="3990071357" seo="true" ref="index">
+    <file name="chia wei22222--oifqfioq1.jpg" crc="74971599" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="chia wei22222--oifqfioq1_2x.jpg" crc="4020215638" seo="true" ref="index">
+    <file name="chia wei22222--oifqfioq1_2x.jpg" crc="322840715" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="chia wei22222--oifqf1.jpg" crc="3798131305" seo="true" ref="index">
+    <file name="chia wei22222--oifqf1.jpg" crc="496824448" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="chia wei22222--oifqf1_2x.jpg" crc="242463698" seo="true" ref="index">
+    <file name="chia wei22222--oifqf1_2x.jpg" crc="86287573" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="rights.png" crc="439214979" seo="true" ref="index">
@@ -61,5 +61,5 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="3974861346" seo="true" mt="1575646740147" redirect="true"/>
+  <file name="index.html" crc="3985430075" seo="true" mt="1575723228386" redirect="true"/>
 </manifest>
