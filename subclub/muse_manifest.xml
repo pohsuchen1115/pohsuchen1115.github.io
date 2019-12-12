@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="pohsuchen1115.github.io/#subclub" resolutions="1x,2x" timestamp="1576167381266">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="pohsuchen1115.github.io/#subclub" resolutions="1x,2x" timestamp="1576168502487">
   <folder name="css">
     <file name="site_global.css" crc="513467885"/>
     <file name="index.css" crc="3805325584" ref="index"/>
@@ -61,5 +61,5 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="4216162318" seo="true" mt="1576167338469" redirect="true"/>
+  <file name="index.html" crc="47752973" seo="true" mt="1576168478068" redirect="true"/>
 </manifest>
