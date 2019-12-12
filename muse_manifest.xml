@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="pohsuchen1115.github.io" resolutions="1x,2x" timestamp="1575774866957">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="pohsuchen1115.github.io" resolutions="1x,2x" timestamp="1576168067231">
   <folder name="css">
-    <file name="site_global.css" crc="3957467806"/>
-    <file name="index.css" crc="4080492413" ref="index"/>
+    <file name="site_global.css" crc="287388570"/>
+    <file name="index.css" crc="3782385510" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -78,6 +78,12 @@
     <file name="peacevswar_2x_2x.jpg" crc="335533416" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="cover-01.png" crc="72603848" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="cover-01_2x.png" crc="356791046" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="4197021473" seo="true" mt="1575774820955" redirect="true"/>
+  <file name="index.html" crc="4104862354" seo="true" mt="1576168061177" redirect="true"/>
 </manifest>
