@@ -60,12 +60,6 @@
       <image:loc>http://pohsuchen1115.github.io/images/3-01_2x_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://pohsuchen1115.github.io/images/free%20cd%20jewel%20case%20mockups%2001.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://pohsuchen1115.github.io/images/free%20cd%20jewel%20case%20mockups%2001_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://pohsuchen1115.github.io/images/peacevswar_2x.jpg</image:loc>
     </image:image>
     <image:image>
@@ -76,6 +70,12 @@
     </image:image>
     <image:image>
       <image:loc>http://pohsuchen1115.github.io/images/cover-01_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pohsuchen1115.github.io/images/img_5818%E6%8B%B7%E8%B2%9D.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pohsuchen1115.github.io/images/img_5818%E6%8B%B7%E8%B2%9D_2x.jpg</image:loc>
     </image:image>
   </url>
 </urlset>
