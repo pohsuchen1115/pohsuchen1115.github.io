@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="pohsuchen1115.github.io/#carolwine" resolutions="1x,2x" timestamp="1575723269523">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="pohsuchen1115.github.io/#carolwine" resolutions="1x,2x" timestamp="1576410771197">
   <folder name="css">
     <file name="site_global.css" crc="513467885"/>
-    <file name="index.css" crc="3874263985" ref="index"/>
+    <file name="index.css" crc="4278761113" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -12,18 +12,6 @@
     <file name="require.js" crc="7928878" ref="index"/>
   </folder>
   <folder name="images">
-    <file name="chia wei22222--oifqfioq1.jpg" crc="74971599" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="chia wei22222--oifqfioq1_2x.jpg" crc="322840715" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="chia wei22222--oifqf1.jpg" crc="496824448" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="chia wei22222--oifqf1_2x.jpg" crc="86287573" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="rights.png" crc="439214979" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -48,18 +36,15 @@
     <file name="logo3_2x.png" crc="3948685638" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="free cd jewel case mockups 01.jpg" crc="151410484" seo="true" ref="index">
+    <file name="carolwine.jpg" crc="383237465" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="free cd jewel case mockups 01_2x.jpg" crc="4025837793" seo="true" ref="index">
+    <file name="未命名-8-01.png" crc="3951503675" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="final.jpg" crc="41239762" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="final_2x.jpg" crc="3979206434" seo="true" ref="index">
+    <file name="未命名-8-01_2x.png" crc="98188990" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="3985430075" seo="true" mt="1575723228386" redirect="true"/>
+  <file name="index.html" crc="4258138511" seo="true" mt="1576410737478" redirect="true"/>
 </manifest>

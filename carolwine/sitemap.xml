@@ -2,21 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://pohsuchen1115.github.io/#carolwine/index.html</loc>
-    <lastmod>2019-12-07</lastmod>
+    <lastmod>2019-12-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://pohsuchen1115.github.io/#carolwine/images/chia%20wei22222--oifqfioq1.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://pohsuchen1115.github.io/#carolwine/images/chia%20wei22222--oifqfioq1_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://pohsuchen1115.github.io/#carolwine/images/chia%20wei22222--oifqf1.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://pohsuchen1115.github.io/#carolwine/images/chia%20wei22222--oifqf1_2x.jpg</image:loc>
-    </image:image>
     <image:image>
       <image:loc>http://pohsuchen1115.github.io/#carolwine/images/rights.png</image:loc>
     </image:image>
@@ -42,16 +30,13 @@
       <image:loc>http://pohsuchen1115.github.io/#carolwine/images/logo3_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://pohsuchen1115.github.io/#carolwine/images/free%20cd%20jewel%20case%20mockups%2001.jpg</image:loc>
+      <image:loc>http://pohsuchen1115.github.io/#carolwine/images/carolwine.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://pohsuchen1115.github.io/#carolwine/images/free%20cd%20jewel%20case%20mockups%2001_2x.jpg</image:loc>
+      <image:loc>http://pohsuchen1115.github.io/#carolwine/images/%E6%9C%AA%E5%91%BD%E5%90%8D-8-01.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://pohsuchen1115.github.io/#carolwine/images/final.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://pohsuchen1115.github.io/#carolwine/images/final_2x.jpg</image:loc>
+      <image:loc>http://pohsuchen1115.github.io/#carolwine/images/%E6%9C%AA%E5%91%BD%E5%90%8D-8-01_2x.png</image:loc>
     </image:image>
   </url>
 </urlset>
