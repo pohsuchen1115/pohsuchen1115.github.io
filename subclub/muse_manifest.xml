@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="pohsuchen1115.github.io/#subclub" resolutions="1x,2x" timestamp="1576776480906">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="pohsuchen1115.github.io/#subclub" resolutions="1x,2x" timestamp="1576826636055">
   <folder name="css">
     <file name="site_global.css" crc="4150625756"/>
     <file name="index.css" crc="50144930" ref="index"/>
@@ -60,12 +60,12 @@
     <file name="logo3_2x.png" crc="3948685638" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="dunpu-01.jpg" crc="202233622" seo="true" ref="index">
+    <file name="dunpu-01.jpg" crc="340733335" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="dunpu-01_2x.jpg" crc="4164763030" seo="true" ref="index">
+    <file name="dunpu-01_2x.jpg" crc="3991448386" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="346830797" seo="true" mt="1576776450207" redirect="true"/>
+  <file name="index.html" crc="140027513" seo="true" mt="1576826596324" redirect="true"/>
 </manifest>
