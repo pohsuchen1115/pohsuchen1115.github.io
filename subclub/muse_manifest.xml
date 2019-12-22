@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="pohsuchen1115.github.io/#subclub" resolutions="1x,2x" timestamp="1577029964306">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="pohsuchen1115.github.io/#subclub" resolutions="1x,2x" timestamp="1577031337238">
   <folder name="css">
     <file name="site_global.css" crc="513467885"/>
-    <file name="index.css" crc="172429914" ref="index"/>
+    <file name="index.css" crc="509728243" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -12,22 +12,22 @@
     <file name="require.js" crc="7928878" ref="index"/>
   </folder>
   <folder name="images">
-    <file name="final.jpg" crc="437871432" seo="true" ref="index">
+    <file name="final.jpg" crc="494604419" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="final_2x.jpg" crc="246974237" seo="true" ref="index">
+    <file name="final_2x.jpg" crc="205517364" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="final-01.jpg" crc="61524761" seo="true" ref="index">
+    <file name="final-01.jpg" crc="254961572" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="final-01_2x.jpg" crc="4226142547" seo="true" ref="index">
+    <file name="final-01_2x.jpg" crc="3943959106" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="喃喃-01.jpg" crc="132771267" seo="true" ref="index">
+    <file name="喃喃-01.jpg" crc="3866137775" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="喃喃-01_2x.jpg" crc="167092280" seo="true" ref="index">
+    <file name="喃喃-01_2x.jpg" crc="4214475973" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="未命名-8-01.png" crc="3951503675" seo="true" ref="index">
@@ -60,18 +60,18 @@
     <file name="logo3_2x.png" crc="3948685638" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="dunpu-01.jpg" crc="340733335" seo="true" ref="index">
+    <file name="dunpu-01.jpg" crc="297633915" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="dunpu-01_2x.jpg" crc="387767427" seo="true" ref="index">
+    <file name="dunpu-01_2x.jpg" crc="3979461700" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="final 拷貝.jpg" crc="227994408" seo="true" ref="index">
+    <file name="final 拷貝.jpg" crc="141571970" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="final 拷貝_2x.jpg" crc="3801790192" seo="true" ref="index">
+    <file name="final 拷貝_2x.jpg" crc="339306375" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="3992135534" seo="true" mt="1577029909781" redirect="true"/>
+  <file name="index.html" crc="4021253643" seo="true" mt="1577031270986" redirect="true"/>
 </manifest>
