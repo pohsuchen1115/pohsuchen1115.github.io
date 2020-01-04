@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="pohsuchen1115.github.io" resolutions="1x,2x" timestamp="1576169158641">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="pohsuchen1115.github.io" resolutions="1x,2x" timestamp="1578164322394">
   <folder name="css">
-    <file name="site_global.css" crc="287388570"/>
-    <file name="index.css" crc="191317200" ref="index"/>
+    <file name="site_global.css" crc="3957467806"/>
+    <file name="index.css" crc="515777841" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -54,7 +54,7 @@
     <file name="logo3_2x.png" crc="3948685638" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="img_8659 3.jpg" crc="4087019224" seo="true" ref="index">
+    <file name="img_8659 3.jpg" crc="204323253" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="img_8659 3_2x.jpg" crc="4148197302" seo="true" ref="index">
@@ -78,6 +78,12 @@
     <file name="cover-01_2x.png" crc="356791046" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="img_9483.jpg" crc="362607203" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_9483_2x.jpg" crc="4253154053" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="219917756" seo="true" mt="1576169149367" redirect="true"/>
+  <file name="index.html" crc="277902927" seo="true" mt="1578164291637" redirect="true"/>
 </manifest>
