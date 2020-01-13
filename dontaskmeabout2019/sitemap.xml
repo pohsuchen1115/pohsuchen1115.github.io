@@ -12,12 +12,6 @@
       <image:loc>http://pohsuchen1115.github.io/#dontaskmeabout2019/images/%E5%A4%A7%E7%B8%BD%E8%A9%95ppt-04_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://pohsuchen1115.github.io/#dontaskmeabout2019/images/w.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://pohsuchen1115.github.io/#dontaskmeabout2019/images/w_2x.png</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://pohsuchen1115.github.io/#dontaskmeabout2019/images/img_6100.jpg</image:loc>
     </image:image>
     <image:image>
@@ -94,6 +88,12 @@
     </image:image>
     <image:image>
       <image:loc>http://pohsuchen1115.github.io/#dontaskmeabout2019/images/logo3_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pohsuchen1115.github.io/#dontaskmeabout2019/images/img_0495.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pohsuchen1115.github.io/#dontaskmeabout2019/images/img_0495_2x.jpg</image:loc>
     </image:image>
   </url>
 </urlset>
