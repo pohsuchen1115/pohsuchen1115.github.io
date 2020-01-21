@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="pohsuchen1115.github.io/#subclub" resolutions="1x,2x" timestamp="1577031337238">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="pohsuchen1115.github.io/#subclub" resolutions="1x,2x" timestamp="1579602912271">
   <folder name="css">
     <file name="site_global.css" crc="513467885"/>
-    <file name="index.css" crc="509728243" ref="index"/>
+    <file name="index.css" crc="500184161" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -12,22 +12,22 @@
     <file name="require.js" crc="7928878" ref="index"/>
   </folder>
   <folder name="images">
-    <file name="final.jpg" crc="494604419" seo="true" ref="index">
+    <file name="final.jpg" crc="3812257964" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="final_2x.jpg" crc="205517364" seo="true" ref="index">
+    <file name="final_2x.jpg" crc="4154362431" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="final-01.jpg" crc="254961572" seo="true" ref="index">
+    <file name="final-01.jpg" crc="522618469" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="final-01_2x.jpg" crc="3943959106" seo="true" ref="index">
+    <file name="final-01_2x.jpg" crc="126423114" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="喃喃-01.jpg" crc="3866137775" seo="true" ref="index">
+    <file name="喃喃-01.jpg" crc="253086903" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="喃喃-01_2x.jpg" crc="4214475973" seo="true" ref="index">
+    <file name="喃喃-01_2x.jpg" crc="3885945922" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="未命名-8-01.png" crc="3951503675" seo="true" ref="index">
@@ -60,18 +60,36 @@
     <file name="logo3_2x.png" crc="3948685638" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="dunpu-01.jpg" crc="297633915" seo="true" ref="index">
+    <file name="dunpu-01.jpg" crc="3788100378" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="dunpu-01_2x.jpg" crc="3979461700" seo="true" ref="index">
+    <file name="dunpu-01_2x.jpg" crc="153970224" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="final 拷貝.jpg" crc="141571970" seo="true" ref="index">
+    <file name="final 拷貝.jpg" crc="4238557426" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="final 拷貝_2x.jpg" crc="339306375" seo="true" ref="index">
+    <file name="final 拷貝_2x.jpg" crc="3917544026" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="未命名-7-012拷貝.jpg" crc="390081807" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="未命名-7-012拷貝_2x.jpg" crc="173600882" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="未命名-5-01 拷貝.jpg" crc="3830470217" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="未命名-5-01 拷貝_2x.jpg" crc="170843794" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="catwalk2-01.jpg" crc="93783490" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="catwalk2-01_2x.jpg" crc="335035111" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="4021253643" seo="true" mt="1577031270986" redirect="true"/>
+  <file name="index.html" crc="4293562517" seo="true" mt="1579602852750" redirect="true"/>
 </manifest>
