@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="pohsuchen1115.github.io/#dontaskmeabout2019" resolutions="1x,2x" timestamp="1578897451364">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="pohsuchen1115.github.io/#dontaskmeabout2019" resolutions="1x,2x" timestamp="1579602465757">
   <folder name="css">
     <file name="site_global.css" crc="513467885"/>
-    <file name="index.css" crc="269521072" ref="index"/>
+    <file name="index.css" crc="4194434912" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -13,7 +13,7 @@
     <file name="require.js" crc="7928878" ref="index"/>
   </folder>
   <folder name="images">
-    <file name="15.jpg" crc="514061257" ref="index">
+    <file name="15.jpg" crc="273232384" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="img_9483.jpg" crc="372309169" ref="index">
@@ -113,5 +113,5 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="3953614842" seo="true" mt="1578897422086" redirect="true"/>
+  <file name="index.html" crc="3769921418" seo="true" mt="1579602431677" redirect="true"/>
 </manifest>
