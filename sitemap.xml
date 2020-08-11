@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://pohsuchen1115.github.io/index.html</loc>
-    <lastmod>2020-01-13</lastmod>
+    <lastmod>2020-08-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -66,16 +66,16 @@
       <image:loc>http://pohsuchen1115.github.io/images/peacevswar_2x_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://pohsuchen1115.github.io/images/cover-01.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://pohsuchen1115.github.io/images/cover-01_2x.png</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://pohsuchen1115.github.io/images/img_9483.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://pohsuchen1115.github.io/images/img_9483_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pohsuchen1115.github.io/images/%E8%9E%A2%E5%B9%95%E5%BF%AB%E7%85%A7%202020-06-26%20%E4%B8%8B%E5%8D%8873905.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pohsuchen1115.github.io/images/%E8%9E%A2%E5%B9%95%E5%BF%AB%E7%85%A7%202020-06-26%20%E4%B8%8B%E5%8D%8873905_2x.jpg</image:loc>
     </image:image>
   </url>
 </urlset>
