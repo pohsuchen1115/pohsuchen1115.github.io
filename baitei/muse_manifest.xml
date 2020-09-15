@@ -1,0 +1,47 @@
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="pohsuchen1115.github.io/#baitei" resolutions="1x,2x" timestamp="1600132556647">
+  <folder name="css">
+    <file name="site_global.css" crc="4139458515"/>
+    <file name="index.css" crc="3917826743" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="340535759" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="4286661555" ref="index"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index"/>
+    <file name="require.js" crc="7928878" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="img_4775.jpg" crc="3992905706" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_4775_2x.jpg" crc="4085575462" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="rights.png" crc="439214979" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="rights_2x.png" crc="443231054" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo1.png" crc="3916646390" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo1_2x.png" crc="4037566950" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo2.png" crc="477257094" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo2_2x.png" crc="3813125036" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo3.png" crc="304136943" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo3_2x.png" crc="3948685638" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="3845933848" seo="true" mt="1600132458512" redirect="true"/>
+</manifest>
