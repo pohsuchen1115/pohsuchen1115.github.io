@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="pohsuchen1115.github.io" resolutions="1x,2x" timestamp="1600133528725">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="pohsuchen1115.github.io" resolutions="1x,2x" timestamp="1605499149322">
   <folder name="css">
     <file name="site_global.css" crc="3957467806"/>
-    <file name="index.css" crc="4252264599" ref="index"/>
+    <file name="index.css" crc="3789531981" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -84,12 +84,12 @@
     <file name="螢幕快照 2020-06-26 下午73905_2x.jpg" crc="288029008" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="img_47751.jpg" crc="3931449633" seo="true" ref="index">
+    <file name="drawing2.jpg" crc="228762449" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="img_47751_2x.jpg" crc="4106886556" seo="true" ref="index">
+    <file name="drawing2_2x.jpg" crc="3951126114" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="3930252755" seo="true" mt="1600133498713" redirect="true"/>
+  <file name="index.html" crc="4121440715" seo="true" mt="1605499119470" redirect="true"/>
 </manifest>
