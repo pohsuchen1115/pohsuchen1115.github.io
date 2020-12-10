@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="pohsuchen1115.github.io/#baitei" resolutions="1x,2x" timestamp="1603738094848">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="pohsuchen1115.github.io/#baitei" resolutions="1x,2x" timestamp="1607619789223">
   <folder name="css">
-    <file name="site_global.css" crc="4139458515"/>
-    <file name="index.css" crc="3823440301" ref="index"/>
+    <file name="site_global.css" crc="524582882"/>
+    <file name="index.css" crc="23416139" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -36,10 +36,10 @@
     <file name="logo3_2x.png" crc="3948685638" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="drawing.jpg" crc="213111312" seo="true" ref="index">
+    <file name="drawing.jpg" crc="107189654" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="drawing_2x.jpg" crc="462451274" seo="true" ref="index">
+    <file name="drawing_2x.jpg" crc="4107037553" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="20201027010012_00000002.jpg" crc="40593206" seo="true" ref="index">
@@ -48,6 +48,12 @@
     <file name="20201027010012_00000002_2x.jpg" crc="20720907" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="20201209191752_00000001.jpg" crc="164543918" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="20201209191752_00000001_2x.jpg" crc="427322054" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="184851678" seo="true" mt="1603737964657" redirect="true"/>
+  <file name="index.html" crc="4196139765" seo="true" mt="1607619740782" redirect="true"/>
 </manifest>
