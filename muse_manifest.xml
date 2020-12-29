@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="pohsuchen1115.github.io" resolutions="1x,2x" timestamp="1609235187508">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="pohsuchen1115.github.io" resolutions="1x,2x" timestamp="1609235453434">
   <folder name="css">
     <file name="site_global.css" crc="3957467806"/>
     <file name="index.css" crc="4065152575" ref="index"/>
@@ -120,12 +120,12 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="loading.gif" crc="3815509949" ref="index"/>
-    <file name="cover use.jpg" crc="133114155" seo="true" ref="index">
+    <file name="cover use.jpg" crc="4197838375" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="cover use_2x.jpg" crc="4068634145" seo="true" ref="index">
+    <file name="cover use_2x.jpg" crc="237368534" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="4246264105" seo="true" mt="1609235147298" redirect="true"/>
+  <file name="index.html" crc="3987605610" seo="true" mt="1609235403943" redirect="true"/>
 </manifest>
