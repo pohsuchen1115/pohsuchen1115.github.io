@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="pohsuchen1115.github.io" resolutions="1x,2x" timestamp="1607177129779">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="pohsuchen1115.github.io" resolutions="1x,2x" timestamp="1609235187508">
   <folder name="css">
     <file name="site_global.css" crc="3957467806"/>
-    <file name="index.css" crc="4223604301" ref="index"/>
+    <file name="index.css" crc="4065152575" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -120,12 +120,12 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="loading.gif" crc="3815509949" ref="index"/>
-    <file name="img_11999999webuse.jpg" crc="4141556870" seo="true" ref="index">
+    <file name="cover use.jpg" crc="133114155" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="img_11999999webuse_2x.jpg" crc="2180324" seo="true" ref="index">
+    <file name="cover use_2x.jpg" crc="4068634145" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="4229894729" seo="true" mt="1607177047737" redirect="true"/>
+  <file name="index.html" crc="4246264105" seo="true" mt="1609235147298" redirect="true"/>
 </manifest>
