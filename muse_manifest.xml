@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="pohsuchen1115.github.io" resolutions="1x,2x" timestamp="1609235453434">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="pohsuchen1115.github.io" resolutions="1x,2x" timestamp="1621618597231">
   <folder name="css">
-    <file name="site_global.css" crc="3957467806"/>
-    <file name="index.css" crc="4065152575" ref="index"/>
+    <file name="site_global.css" crc="287388570"/>
+    <file name="index.css" crc="290311716" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -88,12 +88,6 @@
     <file name="螢幕快照 2020-06-26 下午73905_2x.jpg" crc="441166291" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="drawing2.jpg" crc="4279680483" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="drawing2_2x.jpg" crc="3990815052" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="motion40cm31-01.jpg" crc="3768460802" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -126,6 +120,12 @@
     <file name="cover use_2x.jpg" crc="237368534" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="專刊商品照-000.jpg" crc="4006677828" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="專刊商品照-000_2x.jpg" crc="318553446" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="3987605610" seo="true" mt="1609235403943" redirect="true"/>
+  <file name="index.html" crc="1721231" seo="true" mt="1621618510688" redirect="true"/>
 </manifest>
