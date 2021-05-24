@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="pohsuchen1115.github.io" resolutions="1x,2x" timestamp="1621797385603">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="pohsuchen1115.github.io" resolutions="1x,2x" timestamp="1621844937702">
   <folder name="css">
     <file name="site_global.css" crc="3957467806"/>
-    <file name="index.css" crc="191170910" ref="index"/>
+    <file name="index.css" crc="449281871" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -32,12 +32,6 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="rights_2x.png" crc="443231054" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="poster-03333.jpg" crc="3859773478" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="poster-03333_2x.jpg" crc="28035307" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="logo1.png" crc="3916646390" seo="true" ref="index">
@@ -126,6 +120,12 @@
     <file name="專刊商品照-000_2x.jpg" crc="403289718" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="the lone ranger_裝置照片_03webuse.jpg" crc="38491785" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="the lone ranger_裝置照片_03webuse_2x.jpg" crc="414499546" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="250822719" seo="true" mt="1621797372194" redirect="true"/>
+  <file name="index.html" crc="150467858" seo="true" mt="1621844911363" redirect="true"/>
 </manifest>
