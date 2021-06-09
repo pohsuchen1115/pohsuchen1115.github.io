@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://pohsuchen1115.github.io/#baitei/index.html</loc>
-    <lastmod>2020-12-23</lastmod>
+    <lastmod>2021-06-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -30,28 +30,40 @@
       <image:loc>http://pohsuchen1115.github.io/#baitei/images/logo3_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://pohsuchen1115.github.io/#baitei/images/drawing.jpg</image:loc>
+      <image:loc>http://pohsuchen1115.github.io/#baitei/images/img_8603.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://pohsuchen1115.github.io/#baitei/images/drawing_2x.jpg</image:loc>
+      <image:loc>http://pohsuchen1115.github.io/#baitei/images/img_8607.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://pohsuchen1115.github.io/#baitei/images/20201027010012_00000002.jpg</image:loc>
+      <image:loc>http://pohsuchen1115.github.io/#baitei/images/titleee-01.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://pohsuchen1115.github.io/#baitei/images/20201027010012_00000002_2x.jpg</image:loc>
+      <image:loc>http://pohsuchen1115.github.io/#baitei/images/titleee-01_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://pohsuchen1115.github.io/#baitei/images/20201209191752_00000001.jpg</image:loc>
+      <image:loc>http://pohsuchen1115.github.io/#baitei/images/exhibition.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://pohsuchen1115.github.io/#baitei/images/20201209191752_00000001_2x.jpg</image:loc>
+      <image:loc>http://pohsuchen1115.github.io/#baitei/images/exhibition_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://pohsuchen1115.github.io/#baitei/images/20201222230420_00000001.jpg</image:loc>
+      <image:loc>http://pohsuchen1115.github.io/#baitei/images/img_8563%E6%8B%B7%E8%B2%9D.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://pohsuchen1115.github.io/#baitei/images/20201222230420_00000001_2x.jpg</image:loc>
+      <image:loc>http://pohsuchen1115.github.io/#baitei/images/img_8563%E6%8B%B7%E8%B2%9D_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pohsuchen1115.github.io/#baitei/images/img_1396%E6%8B%B7%E8%B2%9D.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pohsuchen1115.github.io/#baitei/images/img_1396%E6%8B%B7%E8%B2%9D_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pohsuchen1115.github.io/#baitei/images/img_8583%E6%8B%B7%E8%B2%9D.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pohsuchen1115.github.io/#baitei/images/img_8583%E6%8B%B7%E8%B2%9D_2x.jpg</image:loc>
     </image:image>
   </url>
 </urlset>
