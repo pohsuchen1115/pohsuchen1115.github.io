@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="pohsuchen1115.github.io/#baitei" resolutions="1x,2x" timestamp="1623290859894">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="pohsuchen1115.github.io/#baitei" resolutions="1x,2x" timestamp="1623292540203">
   <folder name="css">
     <file name="site_global.css" crc="524582882"/>
-    <file name="index.css" crc="4061838782" ref="index"/>
+    <file name="index.css" crc="3768024626" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -40,18 +40,18 @@
     <file name="logo3_2x.png" crc="3948685638" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="img_8603.jpg" crc="4279882793" seo="true" ref="index">
+    <file name="img_8603.jpg" crc="344355715" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="blank.gif" crc="4208392903" ref="index"/>
-    <file name="img_8607.jpg" crc="265321076" seo="true" ref="index">
+    <file name="img_8607.jpg" crc="19385375" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="loading.gif" crc="3815509949" ref="index"/>
-    <file name="titleee-01.png" crc="4090867198" seo="true" ref="index">
+    <file name="titleee-01.png" crc="3902412617" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="titleee-01_2x.png" crc="34866991" seo="true" ref="index">
+    <file name="titleee-01_2x.png" crc="4147824842" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="exhibition.jpg" crc="3888057741" seo="true" ref="index">
@@ -78,12 +78,12 @@
     <file name="img_8583拷貝_2x.jpg" crc="200940240" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="img_8603_2x.jpg" crc="4171940836" seo="true" ref="index">
+    <file name="img_8603_2x.jpg" crc="3977700834" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="img_8607_2x.jpg" crc="4124014861" seo="true" ref="index">
+    <file name="img_8607_2x.jpg" crc="434922014" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="70766753" seo="true" mt="1623290844758" redirect="true"/>
+  <file name="index.html" crc="137111922" seo="true" mt="1623292412363" redirect="true"/>
 </manifest>
