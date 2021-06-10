@@ -1,7 +1,8 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="pohsuchen1115.github.io/#UNDERTHESHADOW" resolutions="1x,2x" timestamp="1623306223279">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="pohsuchen1115.github.io/#UNDERTHESHADOW" resolutions="1x,2x" timestamp="1623307342073">
   <folder name="css">
     <file name="site_global.css" crc="524582882"/>
-    <file name="index.css" crc="4029439592" ref="index"/>
+    <file name="index.css" crc="65758018" ref="index"/>
+    <file name="nomq_index.css" crc="271639486" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -14,88 +15,151 @@
     <file name="musewpslideshow.js" crc="3862962738" ref="index"/>
     <file name="jquery.museoverlay.js" crc="4147669564" ref="index"/>
     <file name="touchswipe.js" crc="4075097462" ref="index"/>
+    <file name="jquery.museresponsive.js" crc="527716135" ref="index"/>
   </folder>
   <folder name="images">
     <file name="rights.png" crc="439214979" seo="true" ref="index">
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
     </file>
     <file name="rights_2x.png" crc="443231054" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="logo1.png" crc="3916646390" seo="true" ref="index">
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
     </file>
     <file name="logo1_2x.png" crc="4037566950" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="logo2.png" crc="477257094" seo="true" ref="index">
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
     </file>
     <file name="logo2_2x.png" crc="3813125036" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="logo3.png" crc="304136943" seo="true" ref="index">
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
     </file>
     <file name="logo3_2x.png" crc="3948685638" seo="true" ref="index">
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
     </file>
-    <file name="img_8603.jpg" crc="224536790" seo="true" ref="index">
+    <file name="img_8603.jpg" crc="417673914" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="blank.gif" crc="4208392903" ref="index"/>
-    <file name="img_8607.jpg" crc="4137871996" seo="true" ref="index">
+    <file name="img_8607.jpg" crc="3855336227" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="loading.gif" crc="3815509949" ref="index"/>
     <file name="titleee-01.png" crc="48008485" seo="true" ref="index">
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
     </file>
     <file name="titleee-01_2x.png" crc="524313185" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="exhibition.jpg" crc="3888057741" seo="true" ref="index">
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
     </file>
     <file name="exhibition_2x.jpg" crc="3897331124" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="img_8563拷貝.jpg" crc="4144666537" seo="true" ref="index">
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
     </file>
     <file name="img_8563拷貝_2x.jpg" crc="3760977787" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="img_1396拷貝.jpg" crc="4240649896" seo="true" ref="index">
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
     </file>
     <file name="img_1396拷貝_2x.jpg" crc="23415597" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="img_8583拷貝.jpg" crc="215606556" seo="true" ref="index">
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
     </file>
     <file name="img_8583拷貝_2x.jpg" crc="200940240" seo="true" ref="index">
       <caption webpage="index" alt=""/>
-    </file>
-    <file name="img_8603_2x.jpg" crc="3865036365" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="img_8607_2x.jpg" crc="4097035849" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="img_8563拷貝120x67.jpg" crc="25031839" seo="true" ref="index">
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
     </file>
     <file name="img_8563拷貝120x67_2x.jpg" crc="3804556418" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="img_1396拷貝120x67.jpg" crc="4244172916" seo="true" ref="index">
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
     </file>
     <file name="img_1396拷貝120x67_2x.jpg" crc="359008376" seo="true" ref="index">
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="titleee-01579x305.png" crc="3995231064" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="titleee-01579x305_2x.png" crc="3997735259" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="exhibition480x270.jpg" crc="3892403036" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="exhibition480x270_2x.jpg" crc="194806578" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_8563拷貝480x271.jpg" crc="385789056" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_8563拷貝480x271_2x.jpg" crc="3862313946" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_1396拷貝480x270.jpg" crc="4258896606" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_1396拷貝480x270_2x.jpg" crc="4121702341" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_8583拷貝480x320.jpg" crc="529507020" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_8583拷貝480x320_2x.jpg" crc="152385809" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="274416729" seo="true" mt="1623306208954" redirect="true"/>
+  <file name="index.html" crc="3838633774" seo="true" mt="1623307249477" redirect="true"/>
 </manifest>
