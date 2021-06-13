@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="pohsuchen1115.github.io/#UNDERTHESHADOW" resolutions="1x,2x" timestamp="1623590757019">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="pohsuchen1115.github.io/#UNDERTHESHADOW" resolutions="1x,2x" timestamp="1623617081933">
   <folder name="css">
     <file name="site_global.css" crc="4150625756"/>
-    <file name="index.css" crc="4177583338" ref="index"/>
-    <file name="nomq_index.css" crc="3904484047" ref="index"/>
+    <file name="index.css" crc="4249556790" ref="index"/>
+    <file name="nomq_index.css" crc="4029612616" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -353,5 +353,5 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="3880473265" seo="true" mt="1623589877282" redirect="true"/>
+  <file name="index.html" crc="3954521850" seo="true" mt="1623616954711" redirect="true"/>
 </manifest>
