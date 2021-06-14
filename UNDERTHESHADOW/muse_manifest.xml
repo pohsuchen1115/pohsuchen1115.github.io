@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="pohsuchen1115.github.io/#UNDERTHESHADOW" resolutions="1x,2x" timestamp="1623662305520">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="pohsuchen1115.github.io/#UNDERTHESHADOW" resolutions="1x,2x" timestamp="1623677653576">
   <folder name="css">
-    <file name="site_global.css" crc="4150625756"/>
-    <file name="index.css" crc="3786532353" ref="index"/>
-    <file name="nomq_index.css" crc="3859405912" ref="index"/>
+    <file name="site_global.css" crc="513467885"/>
+    <file name="index.css" crc="4218443630" ref="index"/>
+    <file name="nomq_index.css" crc="4258659428" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -361,5 +361,5 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="413878788" seo="true" mt="1623662204680" redirect="true"/>
+  <file name="index.html" crc="24319506" seo="true" mt="1623677423521" redirect="true"/>
 </manifest>
