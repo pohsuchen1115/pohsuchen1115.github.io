@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="pohsuchen1115.github.io" resolutions="1x,2x" timestamp="1623263030713">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="pohsuchen1115.github.io" resolutions="1x,2x" timestamp="1623760622525">
   <folder name="css">
     <file name="site_global.css" crc="3957467806"/>
-    <file name="index.css" crc="103984227" ref="index"/>
+    <file name="index.css" crc="92521681" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -22,10 +22,10 @@
     <file name="logo_2x.png" crc="4197615495" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="未命名66-01.jpg" crc="3784476344" seo="true" ref="index">
+    <file name="未命名66-01.jpg" crc="4194257564" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="未命名66-01_2x.jpg" crc="3949281774" seo="true" ref="index">
+    <file name="未命名66-01_2x.jpg" crc="129664356" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="rights.png" crc="439214979" seo="true" ref="index">
@@ -76,10 +76,10 @@
     <file name="img_9483_2x.jpg" crc="3902879084" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="螢幕快照 2020-06-26 下午73905.jpg" crc="369586759" seo="true" ref="index">
+    <file name="螢幕快照 2020-06-26 下午73905.jpg" crc="486805303" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="螢幕快照 2020-06-26 下午73905_2x.jpg" crc="108005887" seo="true" ref="index">
+    <file name="螢幕快照 2020-06-26 下午73905_2x.jpg" crc="50321504" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="motion40cm31-01.jpg" crc="362599371" seo="true" ref="index">
@@ -120,12 +120,18 @@
     <file name="專刊商品照-000_2x.jpg" crc="403289718" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="the lone ranger_裝置照片_03webuse.jpg" crc="38491785" seo="true" ref="index">
+    <file name="the lone ranger_裝置照片_03webuse.jpg" crc="113839813" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="the lone ranger_裝置照片_03webuse_2x.jpg" crc="414499546" seo="true" ref="index">
+    <file name="the lone ranger_裝置照片_03webuse_2x.jpg" crc="4144934949" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_4950.jpg" crc="381025648" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_4950_2x.jpg" crc="206346988" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="4252838551" seo="true" mt="1623263015448" redirect="true"/>
+  <file name="index.html" crc="4170451707" seo="true" mt="1623760530795" redirect="true"/>
 </manifest>

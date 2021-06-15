@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://pohsuchen1115.github.io/index.html</loc>
-    <lastmod>2021-06-10</lastmod>
+    <lastmod>2021-06-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -112,6 +112,12 @@
     </image:image>
     <image:image>
       <image:loc>http://pohsuchen1115.github.io/images/the%20lone%20ranger_%E8%A3%9D%E7%BD%AE%E7%85%A7%E7%89%87_03webuse_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pohsuchen1115.github.io/images/img_4950.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pohsuchen1115.github.io/images/img_4950_2x.jpg</image:loc>
     </image:image>
   </url>
 </urlset>
