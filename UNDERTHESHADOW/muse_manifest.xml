@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="pohsuchen1115.github.io/#UNDERTHESHADOW" resolutions="1x,2x" timestamp="1623763438889">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="pohsuchen1115.github.io/#UNDERTHESHADOW" resolutions="1x,2x" timestamp="1623764154775">
   <folder name="css">
     <file name="site_global.css" crc="513467885"/>
-    <file name="index.css" crc="435648121" ref="index"/>
+    <file name="index.css" crc="4168618558" ref="index"/>
     <file name="nomq_index.css" crc="4194693578" ref="index"/>
   </folder>
   <folder name="scripts">
@@ -304,12 +304,6 @@
     <file name="rights116x9.png" crc="439214979" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="titleee-01737x388.png" crc="4118938301" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="titleee-01737x388_2x.png" crc="4294394409" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="sketch-01600x317.jpg" crc="3976853560" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -412,6 +406,12 @@
     <file name="img_8583拷貝528x352_2x.jpg" crc="54047788" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="titleee-01600x317.png" crc="4084474651" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="titleee-01600x317_2x.png" crc="329961831" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="159702339" seo="true" mt="1623763407678" redirect="true"/>
+  <file name="index.html" crc="247070669" seo="true" mt="1623764063194" redirect="true"/>
 </manifest>
