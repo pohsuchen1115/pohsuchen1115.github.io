@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://pohsuchen1115.github.io/#theloneranger/index.html</loc>
-    <lastmod>2019-10-04</lastmod>
+    <lastmod>2021-06-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -54,10 +54,58 @@
       <image:loc>http://pohsuchen1115.github.io/#theloneranger/images/%E6%9C%AA%E5%91%BD%E5%90%8D-2-01_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://pohsuchen1115.github.io/#theloneranger/images/img_6026.jpg</image:loc>
+      <image:loc>http://pohsuchen1115.github.io/#theloneranger/images/the%20lone%20ranger_%E8%A3%9D%E7%BD%AE%E7%85%A7%E7%89%87_02.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://pohsuchen1115.github.io/#theloneranger/images/img_6026_2x.jpg</image:loc>
+      <image:loc>http://pohsuchen1115.github.io/#theloneranger/images/the%20lone%20ranger_%E8%A3%9D%E7%BD%AE%E7%85%A7%E7%89%87_02_2x.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://pohsuchen1115.github.io/#theloneranger/40cm3.html</loc>
+    <lastmod>2019-10-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://pohsuchen1115.github.io/#theloneranger/images/rights.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pohsuchen1115.github.io/#theloneranger/images/rights_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pohsuchen1115.github.io/#theloneranger/images/logo1.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pohsuchen1115.github.io/#theloneranger/images/logo1_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pohsuchen1115.github.io/#theloneranger/images/logo2.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pohsuchen1115.github.io/#theloneranger/images/logo2_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pohsuchen1115.github.io/#theloneranger/images/logo3.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pohsuchen1115.github.io/#theloneranger/images/logo3_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pohsuchen1115.github.io/#theloneranger/images/%E6%9C%AA%E5%91%BD%E5%90%8D-12-01.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pohsuchen1115.github.io/#theloneranger/images/%E6%9C%AA%E5%91%BD%E5%90%8D-12-01_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pohsuchen1115.github.io/#theloneranger/images/deplace%20exhibition-01.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pohsuchen1115.github.io/#theloneranger/images/deplace%20exhibition-01_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pohsuchen1115.github.io/#theloneranger/images/logo-01.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pohsuchen1115.github.io/#theloneranger/images/logo-01_2x.png</image:loc>
     </image:image>
   </url>
 </urlset>
