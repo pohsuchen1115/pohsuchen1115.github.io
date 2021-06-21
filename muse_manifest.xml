@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="pohsuchen1115.github.io" resolutions="1x,2x" timestamp="1624269933577">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="pohsuchen1115.github.io" resolutions="1x,2x" timestamp="1624271728048">
   <folder name="css">
     <file name="site_global.css" crc="424494166"/>
     <file name="index.css" crc="3886105541" ref="index"/>
@@ -9,13 +9,13 @@
     <file name="museutils.js" crc="340535759" ref="index"/>
     <file name="whatinput.js" crc="86476730" ref="index"/>
     <file name="museconfig.js" crc="4286661555" ref="index"/>
-    <file name="jquery.watch.js" crc="51536988" ref="index"/>
-    <file name="require.js" crc="7928878" ref="index"/>
     <file name="webpro.js" crc="4059564322" ref="index"/>
     <file name="musewpslideshow.js" crc="3862962738" ref="index"/>
     <file name="jquery.museoverlay.js" crc="4147669564" ref="index"/>
     <file name="touchswipe.js" crc="4075097462" ref="index"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index"/>
     <file name="jquery.museresponsive.js" crc="527716135" ref="index"/>
+    <file name="require.js" crc="7928878" ref="index"/>
   </folder>
   <folder name="images">
     <file name="logo.png" crc="3777414413" seo="true" ref="index">
@@ -26,72 +26,40 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="未命名66-01.jpg" crc="4194257564" seo="true" ref="index">
+    <file name="img_4950.jpg" crc="381025648" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="未命名66-01_2x.jpg" crc="129664356" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="rights.png" crc="439214979" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="rights_2x.png" crc="443231054" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="logo1.png" crc="3916646390" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="logo1_2x.png" crc="4037566950" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="logo2.png" crc="477257094" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="logo2_2x.png" crc="3813125036" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="logo3.png" crc="304136943" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="logo3_2x.png" crc="3948685638" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="img_8659 3.jpg" crc="478722001" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="img_8659 3_2x.jpg" crc="4001667764" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="3-01_2x.jpg" crc="163877860" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="3-01_2x_2x.jpg" crc="530254394" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="peacevswar_2x.jpg" crc="76853580" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="peacevswar_2x_2x.jpg" crc="201905892" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="img_9483.jpg" crc="3883799903" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="img_9483_2x.jpg" crc="3902879084" seo="true" ref="index">
+    <file name="img_4950_2x.jpg" crc="206346988" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="螢幕快照 2020-06-26 下午73905.jpg" crc="486805303" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="螢幕快照 2020-06-26 下午73905_2x.jpg" crc="50321504" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="the lone ranger_裝置照片_03webuse.jpg" crc="113839813" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="the lone ranger_裝置照片_03webuse_2x.jpg" crc="4144934949" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="未命名66-01.jpg" crc="4194257564" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="未命名66-01_2x.jpg" crc="129664356" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="專刊商品照-000.jpg" crc="148933280" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="專刊商品照-000_2x.jpg" crc="403289718" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="cover use.jpg" crc="152275351" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="cover use_2x.jpg" crc="4114865363" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="motion40cm31-01.jpg" crc="362599371" seo="true" ref="index">
@@ -120,28 +88,60 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="loading.gif" crc="3815509949" ref="index"/>
-    <file name="cover use.jpg" crc="152275351" seo="true" ref="index">
+    <file name="peacevswar_2x.jpg" crc="76853580" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="cover use_2x.jpg" crc="4114865363" seo="true" ref="index">
+    <file name="peacevswar_2x_2x.jpg" crc="201905892" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="專刊商品照-000.jpg" crc="148933280" seo="true" ref="index">
+    <file name="img_9483.jpg" crc="3883799903" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="專刊商品照-000_2x.jpg" crc="403289718" seo="true" ref="index">
+    <file name="img_9483_2x.jpg" crc="3902879084" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="the lone ranger_裝置照片_03webuse.jpg" crc="113839813" seo="true" ref="index">
+    <file name="3-01_2x.jpg" crc="163877860" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="the lone ranger_裝置照片_03webuse_2x.jpg" crc="4144934949" seo="true" ref="index">
+    <file name="3-01_2x_2x.jpg" crc="530254394" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="img_4950.jpg" crc="381025648" seo="true" ref="index">
+    <file name="img_8659 3.jpg" crc="478722001" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="img_4950_2x.jpg" crc="206346988" seo="true" ref="index">
+    <file name="img_8659 3_2x.jpg" crc="4001667764" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo1.png" crc="3916646390" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo1_2x.png" crc="4037566950" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo2.png" crc="477257094" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo2_2x.png" crc="3813125036" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo3.png" crc="304136943" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo3_2x.png" crc="3948685638" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="rights.png" crc="439214979" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="rights_2x.png" crc="443231054" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="img_4950185x107.jpg" crc="529480414" seo="true" ref="index">
