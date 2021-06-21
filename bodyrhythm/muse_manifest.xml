@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="pohsuchen1115.github.io/#bodyrhythm" resolutions="1x,2x" timestamp="1572602566789">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="pohsuchen1115.github.io/#bodyrhythm" resolutions="1x,2x" timestamp="1624293549242">
   <folder name="css">
-    <file name="site_global.css" crc="524582882"/>
-    <file name="index.css" crc="57696930" ref="index"/>
+    <file name="site_global.css" crc="4139458515"/>
+    <file name="index.css" crc="161180930" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -12,28 +12,28 @@
     <file name="require.js" crc="7928878" ref="index"/>
   </folder>
   <folder name="images">
-    <file name="1.jpg" crc="414184517" seo="true" ref="index">
+    <file name="1.jpg" crc="382229673" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="1_2x.jpg" crc="3774817140" seo="true" ref="index">
+    <file name="1_2x.jpg" crc="3969682517" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="2.jpg" crc="4270283984" seo="true" ref="index">
+    <file name="2.jpg" crc="3769125506" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="2_2x.jpg" crc="4215297139" seo="true" ref="index">
+    <file name="2_2x.jpg" crc="301534364" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="3-01.jpg" crc="211190439" seo="true" ref="index">
+    <file name="3-01.jpg" crc="3761580505" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="3-01_2x.jpg" crc="163694850" seo="true" ref="index">
+    <file name="3-01_2x.jpg" crc="149597633" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="img_6256.jpg" crc="262716252" seo="true" ref="index">
+    <file name="img_6256.jpg" crc="396090055" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="img_6256_2x.jpg" crc="381793272" seo="true" ref="index">
+    <file name="img_6256_2x.jpg" crc="307643009" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="logo1.png" crc="3916646390" seo="true" ref="index">
@@ -61,5 +61,5 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="252755329" seo="true" mt="1572602409542" redirect="true"/>
+  <file name="index.html" crc="3823145105" seo="true" mt="1624293501951" redirect="true"/>
 </manifest>
