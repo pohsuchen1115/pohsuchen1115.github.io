@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://pohsuchen1115.github.io/#theloneranger/index.html</loc>
-    <lastmod>2021-06-19</lastmod>
+    <lastmod>2021-06-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -58,6 +58,36 @@
     </image:image>
     <image:image>
       <image:loc>http://pohsuchen1115.github.io/#theloneranger/images/the%20lone%20ranger_%E8%A3%9D%E7%BD%AE%E7%85%A7%E7%89%87_02_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pohsuchen1115.github.io/#theloneranger/images/title186x24.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pohsuchen1115.github.io/#theloneranger/images/title186x24_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pohsuchen1115.github.io/#theloneranger/images/img_7027196x122.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pohsuchen1115.github.io/#theloneranger/images/img_7027196x122_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pohsuchen1115.github.io/#theloneranger/images/%E6%9C%AA%E5%91%BD%E5%90%8D-2-01414x233.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pohsuchen1115.github.io/#theloneranger/images/%E6%9C%AA%E5%91%BD%E5%90%8D-2-01414x233_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pohsuchen1115.github.io/#theloneranger/images/tech-01414x233.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pohsuchen1115.github.io/#theloneranger/images/tech-01414x233_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pohsuchen1115.github.io/#theloneranger/images/the%20lone%20ranger_%E8%A3%9D%E7%BD%AE%E7%85%A7%E7%89%87_02414x282.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pohsuchen1115.github.io/#theloneranger/images/the%20lone%20ranger_%E8%A3%9D%E7%BD%AE%E7%85%A7%E7%89%87_02414x282_2x.jpg</image:loc>
     </image:image>
   </url>
   <url>
