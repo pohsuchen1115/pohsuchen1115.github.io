@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://pohsuchen1115.github.io/#peacevswar/index.html</loc>
-    <lastmod>2021-06-22</lastmod>
+    <lastmod>2021-06-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -46,6 +46,24 @@
     </image:image>
     <image:image>
       <image:loc>http://pohsuchen1115.github.io/#peacevswar/images/logo3_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pohsuchen1115.github.io/#peacevswar/images/%E7%AC%AC%E4%BA%94%E5%B1%86%E5%89%B5%E6%84%8F%E4%B9%8B%E6%98%9F%E8%A8%AD%E8%A8%88%E7%8D%8E74x112.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pohsuchen1115.github.io/#peacevswar/images/%E7%AC%AC%E4%BA%94%E5%B1%86%E5%89%B5%E6%84%8F%E4%B9%8B%E6%98%9F%E8%A8%AD%E8%A8%88%E7%8D%8E74x112_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pohsuchen1115.github.io/#peacevswar/images/peacevswar298x422.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pohsuchen1115.github.io/#peacevswar/images/peacevswar298x422_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pohsuchen1115.github.io/#peacevswar/images/banner-01298x168.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pohsuchen1115.github.io/#peacevswar/images/banner-01298x168_2x.jpg</image:loc>
     </image:image>
   </url>
 </urlset>
