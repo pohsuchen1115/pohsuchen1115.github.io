@@ -1,9 +1,9 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="pohsuchen1115.github.io/#dining" resolutions="1x,2x" timestamp="1624716037007">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="pohsuchen1115.github.io/#dining" resolutions="1x,2x" timestamp="1624716492588">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="293113632" ref="index"/>
+    <file name="index.css" crc="4071814545" ref="index"/>
     <file name="the-lone-ranger.css" crc="4168831543" ref="the-lone-ranger"/>
-    <file name="nomq_index.css" crc="4202203648" ref="index"/>
+    <file name="nomq_index.css" crc="4118328478" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:the-lone-ranger"/>
@@ -258,11 +258,6 @@
       <caption webpage="index" alt=""/>
       <caption webpage="dining-installation" alt=""/>
     </file>
-    <file name="eat2_2x.png" crc="3923435793" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="dining-installation" alt=""/>
-    </file>
     <file name="poster-01.jpg" crc="173820154" ref="the-lone-ranger">
       <caption webpage="the-lone-ranger" alt=""/>
     </file>
@@ -350,6 +345,6 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="69201379" seo="true" mt="1624715984626" redirect="true"/>
+  <file name="index.html" crc="4063067171" seo="true" mt="1624716466594" redirect="true"/>
   <file name="the-lone-ranger.html" crc="4270008918" seo="true" mt="1563000380370" redirect="true"/>
 </manifest>
