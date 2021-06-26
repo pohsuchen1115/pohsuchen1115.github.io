@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="pohsuchen1115.github.io/#peacevswar" resolutions="1x,2x" timestamp="1624479077386">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="pohsuchen1115.github.io/#peacevswar" resolutions="1x,2x" timestamp="1624717848890">
   <folder name="css">
     <file name="site_global.css" crc="524582882"/>
-    <file name="index.css" crc="142862535" ref="index"/>
-    <file name="nomq_index.css" crc="131966766" ref="index"/>
+    <file name="index.css" crc="3900255398" ref="index"/>
+    <file name="nomq_index.css" crc="238317551" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -26,10 +26,10 @@
     <file name="banner-01_2x.jpg" crc="108115351" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="第五屆創意之星設計獎.jpg" crc="315270113" seo="true" ref="index">
+    <file name="第五屆創意之星設計獎.jpg" crc="4027046852" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="第五屆創意之星設計獎_2x.jpg" crc="191648715" seo="true" ref="index">
+    <file name="第五屆創意之星設計獎_2x.jpg" crc="4214055820" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="rights.png" crc="439214979" seo="true" ref="index">
@@ -64,10 +64,10 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="第五屆創意之星設計獎74x112.jpg" crc="3887364189" seo="true" ref="index">
+    <file name="第五屆創意之星設計獎74x112.jpg" crc="266787072" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="第五屆創意之星設計獎74x112_2x.jpg" crc="55186577" seo="true" ref="index">
+    <file name="第五屆創意之星設計獎74x112_2x.jpg" crc="55841976" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="peacevswar298x422.jpg" crc="4280873512" seo="true" ref="index">
@@ -84,5 +84,5 @@
     </file>
     <file name="blank.gif" crc="4208392903" ref="index"/>
   </folder>
-  <file name="index.html" crc="3983464562" seo="true" mt="1624479045279" redirect="true"/>
+  <file name="index.html" crc="391670227" seo="true" mt="1624717831692" redirect="true"/>
 </manifest>
