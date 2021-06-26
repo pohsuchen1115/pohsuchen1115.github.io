@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://pohsuchen1115.github.io/#woodenfish/index.html</loc>
-    <lastmod>2021-06-19</lastmod>
+    <lastmod>2021-06-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -64,6 +64,42 @@
     </image:image>
     <image:image>
       <image:loc>http://pohsuchen1115.github.io/#woodenfish/images/logo3_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pohsuchen1115.github.io/#woodenfish/images/%E6%9C%AA%E5%91%BD%E5%90%8D-17-01414x233.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pohsuchen1115.github.io/#woodenfish/images/%E6%9C%AA%E5%91%BD%E5%90%8D-17-01414x233_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pohsuchen1115.github.io/#woodenfish/images/%E6%9C%AA%E5%91%BD%E5%90%8D-18-01414x233.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pohsuchen1115.github.io/#woodenfish/images/%E6%9C%AA%E5%91%BD%E5%90%8D-18-01414x233_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pohsuchen1115.github.io/#woodenfish/images/%E6%9C%AA%E5%91%BD%E5%90%8D-14-01414x233.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pohsuchen1115.github.io/#woodenfish/images/%E6%9C%AA%E5%91%BD%E5%90%8D-14-01414x233_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pohsuchen1115.github.io/#woodenfish/images/%E6%9C%AA%E5%91%BD%E5%90%8D-15-01414x233.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pohsuchen1115.github.io/#woodenfish/images/%E6%9C%AA%E5%91%BD%E5%90%8D-15-01414x233_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pohsuchen1115.github.io/#woodenfish/images/%E6%9C%AA%E5%91%BD%E5%90%8D-16-01414x233.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pohsuchen1115.github.io/#woodenfish/images/%E6%9C%AA%E5%91%BD%E5%90%8D-16-01414x233_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pohsuchen1115.github.io/#woodenfish/images/%E8%9E%A2%E5%B9%95%E5%BF%AB%E7%85%A7%202020-06-26%20%E4%B8%8B%E5%8D%8873905414x233.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pohsuchen1115.github.io/#woodenfish/images/%E8%9E%A2%E5%B9%95%E5%BF%AB%E7%85%A7%202020-06-26%20%E4%B8%8B%E5%8D%8873905414x233_2x.jpg</image:loc>
     </image:image>
   </url>
 </urlset>

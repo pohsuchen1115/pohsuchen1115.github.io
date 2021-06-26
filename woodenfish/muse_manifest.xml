@@ -1,7 +1,8 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="pohsuchen1115.github.io/#woodenfish" resolutions="1x,2x" timestamp="1624099595549">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="pohsuchen1115.github.io/#woodenfish" resolutions="1x,2x" timestamp="1624705887810">
   <folder name="css">
     <file name="site_global.css" crc="513467885"/>
-    <file name="index.css" crc="524506254" ref="index"/>
+    <file name="index.css" crc="3824582410" ref="index"/>
+    <file name="nomq_index.css" crc="4050932848" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -10,6 +11,7 @@
     <file name="museconfig.js" crc="4286661555" ref="index"/>
     <file name="jquery.watch.js" crc="51536988" ref="index"/>
     <file name="require.js" crc="7928878" ref="index"/>
+    <file name="jquery.museresponsive.js" crc="527716135" ref="index"/>
   </folder>
   <folder name="images">
     <file name="未命名-17-01.jpg" crc="4085368601" seo="true" ref="index">
@@ -50,28 +52,73 @@
     </file>
     <file name="rights.png" crc="439214979" seo="true" ref="index">
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
     </file>
     <file name="rights_2x.png" crc="443231054" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="logo1.png" crc="3916646390" seo="true" ref="index">
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
     </file>
     <file name="logo1_2x.png" crc="4037566950" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="logo2.png" crc="477257094" seo="true" ref="index">
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
     </file>
     <file name="logo2_2x.png" crc="3813125036" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="logo3.png" crc="304136943" seo="true" ref="index">
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
     </file>
     <file name="logo3_2x.png" crc="3948685638" seo="true" ref="index">
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
     </file>
+    <file name="未命名-17-01414x233.jpg" crc="4211574388" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="未命名-17-01414x233_2x.jpg" crc="3859762780" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="未命名-18-01414x233.jpg" crc="4224421547" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="未命名-18-01414x233_2x.jpg" crc="274583726" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="未命名-14-01414x233.jpg" crc="79258459" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="未命名-14-01414x233_2x.jpg" crc="4067330182" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="未命名-15-01414x233.jpg" crc="4255744452" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="未命名-15-01414x233_2x.jpg" crc="496202856" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="未命名-16-01414x233.jpg" crc="250191744" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="未命名-16-01414x233_2x.jpg" crc="154793741" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="螢幕快照 2020-06-26 下午73905414x233.jpg" crc="3902149365" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="螢幕快照 2020-06-26 下午73905414x233_2x.jpg" crc="4090772839" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
   </folder>
-  <file name="index.html" crc="524914082" seo="true" mt="1624099564153" redirect="true"/>
+  <file name="index.html" crc="522039731" seo="true" mt="1624705864488" redirect="true"/>
 </manifest>
