@@ -1,9 +1,9 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="pohsuchen1115.github.io/#dining" resolutions="1x,2x" timestamp="1624716492588">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="pohsuchen1115.github.io/#dining" resolutions="1x,2x" timestamp="1624717395273">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="4071814545" ref="index"/>
+    <file name="index.css" crc="3991096069" ref="index"/>
     <file name="the-lone-ranger.css" crc="4168831543" ref="the-lone-ranger"/>
-    <file name="nomq_index.css" crc="4118328478" ref="index"/>
+    <file name="nomq_index.css" crc="191079506" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:the-lone-ranger"/>
@@ -71,11 +71,9 @@
     </file>
     <file name="未命名-8.png" crc="38299177" seo="true" ref="index">
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
       <caption webpage="dining-installation" alt=""/>
     </file>
     <file name="未命名-8_2x.png" crc="4126903423" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="dining-installation" alt=""/>
     </file>
@@ -113,11 +111,9 @@
     </file>
     <file name="未命名-7.png" crc="284411588" seo="true" ref="index">
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
       <caption webpage="dining-installation" alt=""/>
     </file>
     <file name="未命名-7_2x.png" crc="26863822" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="dining-installation" alt=""/>
     </file>
@@ -163,11 +159,9 @@
     </file>
     <file name="未命名-6.png" crc="431120250" seo="true" ref="index">
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
       <caption webpage="dining-installation" alt=""/>
     </file>
     <file name="未命名-6_2x.png" crc="4235723035" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="dining-installation" alt=""/>
     </file>
@@ -284,22 +278,10 @@
     <file name="img_9882100x100_2x.jpg" crc="4046499604" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="sketch30x30.png" crc="253308753" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="sketch30x30_2x.png" crc="3992279313" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="螢幕快照 2019-03-20 下午82525100x100.jpg" crc="215638579" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="螢幕快照 2019-03-20 下午82525100x100_2x.jpg" crc="3763556467" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="coding30x30.png" crc="115317644" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="coding30x30_2x.png" crc="238186591" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="img_904150x50.jpg" crc="3940499291" seo="true" ref="index">
@@ -326,12 +308,6 @@
     <file name="img_1122拷貝50x50_2x.jpg" crc="4074541568" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="model30x30.png" crc="128477344" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="model30x30_2x.png" crc="4162151792" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="螢幕快照 2019-01-03 上午51908.png" crc="4008130764" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -344,7 +320,43 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
+    <file name="未命名-877x17.png" crc="449467484" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="未命名-877x17_2x.png" crc="75348346" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="sketch25x25.png" crc="197339142" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="sketch25x25_2x.png" crc="7463523" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="未命名-755x17.png" crc="4055166169" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="未命名-755x17_2x.png" crc="65988074" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="coding25x25.png" crc="111725722" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="coding25x25_2x.png" crc="4289532898" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="未命名-672x17.png" crc="413877552" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="未命名-672x17_2x.png" crc="3917686470" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="model25x25.png" crc="4180111473" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="model25x25_2x.png" crc="29044073" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="4063067171" seo="true" mt="1624716466594" redirect="true"/>
+  <file name="index.html" crc="4103572121" seo="true" mt="1624717341868" redirect="true"/>
   <file name="the-lone-ranger.html" crc="4270008918" seo="true" mt="1563000380370" redirect="true"/>
 </manifest>
