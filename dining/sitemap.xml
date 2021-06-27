@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://pohsuchen1115.github.io/#dining/index.html</loc>
-    <lastmod>2021-06-26</lastmod>
+    <lastmod>2021-06-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -238,6 +238,21 @@
     </image:image>
     <image:image>
       <image:loc>http://pohsuchen1115.github.io/#dining/images/model25x25_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pohsuchen1115.github.io/#dining/images/eat2_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pohsuchen1115.github.io/#dining/images/%E6%9C%AA%E5%91%BD%E5%90%8D-927x18.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pohsuchen1115.github.io/#dining/images/%E6%9C%AA%E5%91%BD%E5%90%8D-927x18_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pohsuchen1115.github.io/#dining/images/%E6%9C%AA%E5%91%BD%E5%90%8D-928x18.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pohsuchen1115.github.io/#dining/images/%E6%9C%AA%E5%91%BD%E5%90%8D-928x18_2x.png</image:loc>
     </image:image>
   </url>
   <url>
