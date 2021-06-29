@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="pohsuchen1115.github.io/#deathrowphenomenon" resolutions="1x,2x" timestamp="1624914691755">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="pohsuchen1115.github.io/#deathrowphenomenon" resolutions="1x,2x" timestamp="1624984307117">
   <folder name="css">
     <file name="site_global.css" crc="513467885"/>
-    <file name="index.css" crc="450450607" ref="index"/>
-    <file name="nomq_index.css" crc="4170772072" ref="index"/>
+    <file name="index.css" crc="4034594871" ref="index"/>
+    <file name="nomq_index.css" crc="3827109396" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -82,5 +82,5 @@
     </file>
     <file name="blank.gif" crc="4208392903" ref="index"/>
   </folder>
-  <file name="index.html" crc="141779852" seo="true" mt="1624914664305" redirect="true"/>
+  <file name="index.html" crc="4221817483" seo="true" mt="1624984278927" redirect="true"/>
 </manifest>
