@@ -1,7 +1,8 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="pohsuchen1115.github.io/#SCCDgraduatecatalogconation" resolutions="1x,2x" timestamp="1621617733451">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="pohsuchen1115.github.io/#SCCDgraduatecatalogconation" resolutions="1x,2x" timestamp="1624964909647">
   <folder name="css">
     <file name="site_global.css" crc="513467885"/>
-    <file name="index.css" crc="4056126425" ref="index"/>
+    <file name="index.css" crc="4190584158" ref="index"/>
+    <file name="nomq_index.css" crc="426374598" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -16,6 +17,7 @@
     <file name="touchswipe.js" crc="4075097462" ref="index"/>
     <file name="jquery.scrolleffects.js" crc="39568856" ref="index"/>
     <file name="require.js" crc="7928878" ref="index"/>
+    <file name="jquery.museresponsive.js" crc="527716135" ref="index"/>
   </folder>
   <folder name="images">
     <file name="專刊商品照-30.jpg" crc="4037975058" ref="index">
@@ -109,28 +111,122 @@
     <file name="loading.gif" crc="3815509949" ref="index"/>
     <file name="rights.png" crc="439214979" seo="true" ref="index">
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
     </file>
     <file name="rights_2x.png" crc="443231054" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="logo1.png" crc="3916646390" seo="true" ref="index">
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
     </file>
     <file name="logo1_2x.png" crc="4037566950" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="logo2.png" crc="477257094" seo="true" ref="index">
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
     </file>
     <file name="logo2_2x.png" crc="3813125036" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="logo3.png" crc="304136943" seo="true" ref="index">
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
     </file>
     <file name="logo3_2x.png" crc="3948685638" seo="true" ref="index">
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="專刊商品照-30-u3086-fr.jpg" crc="169808037" ref="index"/>
+    <file name="專刊商品照-30-u3086-fr_2x.jpg" crc="342626367" ref="index"/>
+    <file name="專刊商品照-08207x139.jpg" crc="4239833088" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="專刊商品照-08207x139_2x.jpg" crc="402123353" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="專刊商品照-04207x139.jpg" crc="4094465097" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="專刊商品照-04207x139_2x.jpg" crc="498139517" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="專刊商品照-03207x139.jpg" crc="4099058156" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="專刊商品照-03207x139_2x.jpg" crc="256546378" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="專刊商品照-01207x139.jpg" crc="298440923" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="專刊商品照-01207x139_2x.jpg" crc="3765736170" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="專刊商品照-39415x277.jpg" crc="3845527912" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="專刊商品照-39415x277_2x.jpg" crc="3871365411" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="專刊商品照-26415x277.jpg" crc="467432103" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="專刊商品照-26415x277_2x.jpg" crc="3923696690" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="專刊商品照-36415x277.jpg" crc="4105691259" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="專刊商品照-36415x277_2x.jpg" crc="4223598666" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="專刊商品照-51415x277.jpg" crc="233562332" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="專刊商品照-51415x277_2x.jpg" crc="4043980474" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="專刊商品照-32415x277.jpg" crc="239881138" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="專刊商品照-32415x277_2x.jpg" crc="3967916670" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="專刊商品照-3984x56.jpg" crc="55962824" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="專刊商品照-3984x56_2x.jpg" crc="64344363" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="專刊商品照-2684x56.jpg" crc="4135393911" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="專刊商品照-2684x56_2x.jpg" crc="4150522623" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="專刊商品照-3684x56.jpg" crc="51894044" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="專刊商品照-3684x56_2x.jpg" crc="104073147" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="專刊商品照-5184x56.jpg" crc="181913024" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="專刊商品照-5184x56_2x.jpg" crc="4249574876" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="專刊商品照-3284x56.jpg" crc="3895928836" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="專刊商品照-3284x56_2x.jpg" crc="3980615454" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="3784595127" seo="true" mt="1621617459653" redirect="true"/>
+  <file name="index.html" crc="9486175" seo="true" mt="1624964874822" redirect="true"/>
 </manifest>
