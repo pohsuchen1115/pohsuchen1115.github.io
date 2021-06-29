@@ -1,7 +1,8 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="pohsuchen1115.github.io/#dontaskmeabout2019" resolutions="1x,2x" timestamp="1624301139731">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="pohsuchen1115.github.io/#dontaskmeabout2019" resolutions="1x,2x" timestamp="1624983148427">
   <folder name="css">
     <file name="site_global.css" crc="513467885"/>
-    <file name="index.css" crc="300316463" ref="index"/>
+    <file name="index.css" crc="389718299" ref="index"/>
+    <file name="nomq_index.css" crc="16714465" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -11,6 +12,7 @@
     <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index"/>
     <file name="jquery.watch.js" crc="51536988" ref="index"/>
     <file name="require.js" crc="7928878" ref="index"/>
+    <file name="jquery.museresponsive.js" crc="527716135" ref="index"/>
   </folder>
   <folder name="images">
     <file name="15.jpg" crc="514061257" ref="index">
@@ -84,26 +86,34 @@
     </file>
     <file name="rights.png" crc="439214979" seo="true" ref="index">
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
     </file>
     <file name="rights_2x.png" crc="443231054" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="logo1.png" crc="3916646390" seo="true" ref="index">
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
     </file>
     <file name="logo1_2x.png" crc="4037566950" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="logo2.png" crc="477257094" seo="true" ref="index">
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
     </file>
     <file name="logo2_2x.png" crc="3813125036" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="logo3.png" crc="304136943" seo="true" ref="index">
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
     </file>
     <file name="logo3_2x.png" crc="3948685638" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="img_0495.jpg" crc="420068633" seo="true" ref="index">
@@ -112,6 +122,77 @@
     <file name="img_0495_2x.jpg" crc="4252098910" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="15-u2414-fr.jpg" crc="3844666137" ref="index"/>
+    <file name="15-u2414-fr_2x.jpg" crc="3822398492" ref="index"/>
+    <file name="img_9483-u2415-fr.jpg" crc="260793792" ref="index"/>
+    <file name="img_9483-u2415-fr_2x.jpg" crc="3898707702" ref="index"/>
+    <file name="大總評ppt-04414x233.jpg" crc="463466512" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="大總評ppt-04414x233_2x.jpg" crc="494347187" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_6100207x291.jpg" crc="36671531" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_6100207x291_2x.jpg" crc="53525075" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_6098207x291.jpg" crc="85851213" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_6098207x291_2x.jpg" crc="4210652651" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_9388414x233.jpg" crc="198200524" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_9388414x233_2x.jpg" crc="4115105951" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_0495414x133.jpg" crc="50635273" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_0495414x133_2x.jpg" crc="4142323685" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="s__15114375127x169.jpg" crc="22834058" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="s__15114375127x169_2x.jpg" crc="3851044447" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="s__155852802169x169.jpg" crc="57707611" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="s__155852802169x169_2x.jpg" crc="3887793861" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_8787120x169.jpg" crc="4082304366" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_8787120x169_2x.jpg" crc="228006742" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="我138x138.jpg" crc="504910987" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="我138x138_2x.jpg" crc="4551131" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="s__41132034138x138.jpg" crc="513192353" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="s__41132034138x138_2x.jpg" crc="51854673" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_6948138x138.jpg" crc="304674303" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_6948138x138_2x.jpg" crc="4124887435" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
   </folder>
-  <file name="index.html" crc="242859979" seo="true" mt="1624301101654" redirect="true"/>
+  <file name="index.html" crc="4006659079" seo="true" mt="1624983049239" redirect="true"/>
 </manifest>
