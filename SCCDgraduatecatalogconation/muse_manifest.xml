@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="pohsuchen1115.github.io/#SCCDgraduatecatalogconation" resolutions="1x,2x" timestamp="1624964909647">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="pohsuchen1115.github.io/#SCCDgraduatecatalogconation" resolutions="1x,2x" timestamp="1624965300108">
   <folder name="css">
     <file name="site_global.css" crc="513467885"/>
-    <file name="index.css" crc="4190584158" ref="index"/>
+    <file name="index.css" crc="4047396750" ref="index"/>
     <file name="nomq_index.css" crc="426374598" ref="index"/>
   </folder>
   <folder name="scripts">
@@ -228,5 +228,5 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="9486175" seo="true" mt="1624964874822" redirect="true"/>
+  <file name="index.html" crc="4075858364" seo="true" mt="1624965282935" redirect="true"/>
 </manifest>
