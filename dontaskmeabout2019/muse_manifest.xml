@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="pohsuchen1115.github.io/#dontaskmeabout2019" resolutions="1x,2x" timestamp="1624983148427">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="pohsuchen1115.github.io/#dontaskmeabout2019" resolutions="1x,2x" timestamp="1624983691986">
   <folder name="css">
     <file name="site_global.css" crc="513467885"/>
-    <file name="index.css" crc="389718299" ref="index"/>
+    <file name="index.css" crc="3913090381" ref="index"/>
     <file name="nomq_index.css" crc="16714465" ref="index"/>
   </folder>
   <folder name="scripts">
@@ -194,5 +194,5 @@
     </file>
     <file name="blank.gif" crc="4208392903" ref="index"/>
   </folder>
-  <file name="index.html" crc="4006659079" seo="true" mt="1624983049239" redirect="true"/>
+  <file name="index.html" crc="2374967" seo="true" mt="1624983672892" redirect="true"/>
 </manifest>
