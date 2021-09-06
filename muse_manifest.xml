@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="pohsuchen1115.github.io" resolutions="1x,2x" timestamp="1624274086056">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="pohsuchen1115.github.io" resolutions="1x,2x" timestamp="1630941123313">
   <folder name="css">
-    <file name="site_global.css" crc="188165631"/>
-    <file name="index.css" crc="4046532270" ref="index"/>
-    <file name="nomq_index.css" crc="3985996542" ref="index"/>
+    <file name="site_global.css" crc="424494166"/>
+    <file name="index.css" crc="287667883" ref="index"/>
+    <file name="nomq_index.css" crc="4207739243" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -88,10 +88,10 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="loading.gif" crc="3815509949" ref="index"/>
-    <file name="peacevswar_2x.jpg" crc="76853580" seo="true" ref="index">
+    <file name="peacevswar_2x.jpg" crc="4155257944" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="peacevswar_2x_2x.jpg" crc="201905892" seo="true" ref="index">
+    <file name="peacevswar_2x_2x.jpg" crc="4008592349" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="img_9483.jpg" crc="3883799903" seo="true" ref="index">
@@ -100,10 +100,10 @@
     <file name="img_9483_2x.jpg" crc="3902879084" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="3-01_2x.jpg" crc="163877860" seo="true" ref="index">
+    <file name="3-01_2x.jpg" crc="4101449599" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="3-01_2x_2x.jpg" crc="530254394" seo="true" ref="index">
+    <file name="3-01_2x_2x.jpg" crc="3935171632" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="img_8659 3.jpg" crc="478722001" seo="true" ref="index">
@@ -204,10 +204,10 @@
     <file name="motion40cm34-01120x120_2x.jpg" crc="4222941524" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="peacevswar_2x120x170.jpg" crc="354966602" seo="true" ref="index">
+    <file name="peacevswar_2x120x170.jpg" crc="4208872694" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="peacevswar_2x120x170_2x.jpg" crc="151444610" seo="true" ref="index">
+    <file name="peacevswar_2x120x170_2x.jpg" crc="297556588" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="img_9483120x85.jpg" crc="3961849936" seo="true" ref="index">
@@ -216,10 +216,10 @@
     <file name="img_9483120x85_2x.jpg" crc="3962868305" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="3-01_2x120x162.jpg" crc="4054230693" seo="true" ref="index">
+    <file name="3-01_2x120x162.jpg" crc="4010083582" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="3-01_2x120x162_2x.jpg" crc="51776882" seo="true" ref="index">
+    <file name="3-01_2x120x162_2x.jpg" crc="356014325" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="img_8659 3120x74.jpg" crc="322915858" seo="true" ref="index">
@@ -229,5 +229,5 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="77265363" seo="true" mt="1624269911911" redirect="true"/>
+  <file name="index.html" crc="23208913" seo="true" mt="1630940997165" redirect="true"/>
 </manifest>
