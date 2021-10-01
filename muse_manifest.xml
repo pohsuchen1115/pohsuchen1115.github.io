@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="pohsuchen1115.github.io" resolutions="1x,2x" timestamp="1630941123313">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="pohsuchen1115.github.io" resolutions="1x,2x" timestamp="1633082762196">
   <folder name="css">
     <file name="site_global.css" crc="424494166"/>
-    <file name="index.css" crc="287667883" ref="index"/>
-    <file name="nomq_index.css" crc="4207739243" ref="index"/>
+    <file name="index.css" crc="215281438" ref="index"/>
+    <file name="nomq_index.css" crc="3963810738" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -24,30 +24,6 @@
     </file>
     <file name="logo_2x.png" crc="4197615495" seo="true" ref="index">
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="img_4950.jpg" crc="381025648" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="img_4950_2x.jpg" crc="206346988" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="螢幕快照 2020-06-26 下午73905.jpg" crc="486805303" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="螢幕快照 2020-06-26 下午73905_2x.jpg" crc="50321504" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="the lone ranger_裝置照片_03webuse.jpg" crc="113839813" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="the lone ranger_裝置照片_03webuse_2x.jpg" crc="4144934949" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="未命名66-01.jpg" crc="4194257564" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="未命名66-01_2x.jpg" crc="129664356" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="專刊商品照-000.jpg" crc="148933280" seo="true" ref="index">
@@ -112,6 +88,30 @@
     <file name="img_8659 3_2x.jpg" crc="4001667764" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="img_4950.jpg" crc="381025648" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_4950_2x.jpg" crc="206346988" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="螢幕快照 2020-06-26 下午73905.jpg" crc="486805303" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="螢幕快照 2020-06-26 下午73905_2x.jpg" crc="50321504" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="the lone ranger_裝置照片_03webuse.jpg" crc="113839813" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="the lone ranger_裝置照片_03webuse_2x.jpg" crc="4144934949" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="未命名66-01.jpg" crc="4194257564" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="未命名66-01_2x.jpg" crc="129664356" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
     <file name="logo1.png" crc="3916646390" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -142,30 +142,6 @@
     </file>
     <file name="rights_2x.png" crc="443231054" seo="true" ref="index">
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="img_4950185x107.jpg" crc="529480414" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="img_4950185x107_2x.jpg" crc="4005774963" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="螢幕快照 2020-06-26 下午73905202x114.jpg" crc="338068007" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="螢幕快照 2020-06-26 下午73905202x114_2x.jpg" crc="3983677965" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="the lone ranger_裝置照片_03webuse185x108.jpg" crc="134339573" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="the lone ranger_裝置照片_03webuse185x108_2x.jpg" crc="326202366" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="未命名66-01185x114.jpg" crc="461547924" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="未命名66-01185x114_2x.jpg" crc="3991239899" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="專刊商品照-000120x96.jpg" crc="236419452" seo="true" ref="index">
@@ -228,6 +204,30 @@
     <file name="img_8659 3120x74_2x.jpg" crc="3984706929" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="img_4950185x107.jpg" crc="529480414" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_4950185x107_2x.jpg" crc="4005774963" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="螢幕快照 2020-06-26 下午73905202x114.jpg" crc="338068007" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="螢幕快照 2020-06-26 下午73905202x114_2x.jpg" crc="3983677965" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="the lone ranger_裝置照片_03webuse185x108.jpg" crc="134339573" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="the lone ranger_裝置照片_03webuse185x108_2x.jpg" crc="326202366" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="未命名66-01185x114.jpg" crc="461547924" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="未命名66-01185x114_2x.jpg" crc="3991239899" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="23208913" seo="true" mt="1630940997165" redirect="true"/>
+  <file name="index.html" crc="446686284" seo="true" mt="1633082705198" redirect="true"/>
 </manifest>
