@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://pohsuchen1115.github.io/index.html</loc>
-    <lastmod>2021-10-01</lastmod>
+    <lastmod>2021-10-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -202,6 +202,18 @@
     </image:image>
     <image:image>
       <image:loc>http://pohsuchen1115.github.io/images/%E6%9C%AA%E5%91%BD%E5%90%8D66-01185x114_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pohsuchen1115.github.io/images/yp%20cover.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pohsuchen1115.github.io/images/yp%20cover_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pohsuchen1115.github.io/images/yp%20cover120x76.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pohsuchen1115.github.io/images/yp%20cover120x76_2x.jpg</image:loc>
     </image:image>
   </url>
 </urlset>
