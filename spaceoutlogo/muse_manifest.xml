@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="pohsuchen1115.github.io/#spaceoutlogo" resolutions="1x,2x" timestamp="1633424791769">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="pohsuchen1115.github.io/#spaceoutlogo" resolutions="1x,2x" timestamp="1633442410332">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="123367705" ref="index"/>
-    <file name="nomq_index.css" crc="187806666" ref="index"/>
+    <file name="index.css" crc="4171493348" ref="index"/>
+    <file name="nomq_index.css" crc="4190978394" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -27,10 +27,10 @@
     <file name="finalized-01_2x.jpg" crc="441838858" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="spaceoutlogocover.jpg" crc="3777216487" ref="index">
+    <file name="spaceoutlogocover.jpg" crc="422152135" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="spaceoutlogocover_2x.jpg" crc="124822392" ref="index">
+    <file name="spaceoutlogocover_2x.jpg" crc="337730038" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="rights.png" crc="439214979" seo="true" ref="index">
@@ -73,9 +73,9 @@
     <file name="finalized-01298x298_2x.jpg" crc="4242532293" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="spaceoutlogocover-u2539-fr.jpg" crc="4127144142" ref="index"/>
-    <file name="spaceoutlogocover-u2539-fr_2x.jpg" crc="3993228557" ref="index"/>
+    <file name="spaceoutlogocover-u2539-fr.jpg" crc="3947775802" ref="index"/>
+    <file name="spaceoutlogocover-u2539-fr_2x.jpg" crc="3851873130" ref="index"/>
     <file name="blank.gif" crc="4208392903" ref="index"/>
   </folder>
-  <file name="index.html" crc="139184142" seo="true" mt="1633424755187" redirect="true"/>
+  <file name="index.html" crc="3888882785" seo="true" mt="1633442407951" redirect="true"/>
 </manifest>
