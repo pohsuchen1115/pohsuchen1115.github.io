@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="pohsuchen1115.github.io/#spaceoutlogo" resolutions="1x,2x" timestamp="1633412957612">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="pohsuchen1115.github.io/#spaceoutlogo" resolutions="1x,2x" timestamp="1633413629316">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="3934434079" ref="index"/>
-    <file name="nomq_index.css" crc="181312703" ref="index"/>
+    <file name="index.css" crc="64287588" ref="index"/>
+    <file name="nomq_index.css" crc="3961014129" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -77,5 +77,5 @@
     <file name="spaceoutlogocover-u2539-fr_2x.jpg" crc="4207778021" ref="index"/>
     <file name="blank.gif" crc="4208392903" ref="index"/>
   </folder>
-  <file name="index.html" crc="4254521029" seo="true" mt="1633412828370" redirect="true"/>
+  <file name="index.html" crc="173040228" seo="true" mt="1633413585194" redirect="true"/>
 </manifest>
