@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="pohsuchen1115.github.io" resolutions="1x,2x" timestamp="1633379272815">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="pohsuchen1115.github.io" resolutions="1x,2x" timestamp="1633424302949">
   <folder name="css">
-    <file name="site_global.css" crc="424494166"/>
-    <file name="index.css" crc="450644935" ref="index"/>
-    <file name="nomq_index.css" crc="174313080" ref="index"/>
+    <file name="site_global.css" crc="188165631"/>
+    <file name="index.css" crc="3892258743" ref="index"/>
+    <file name="nomq_index.css" crc="4111776966" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -16,6 +16,7 @@
     <file name="jquery.watch.js" crc="51536988" ref="index"/>
     <file name="jquery.museresponsive.js" crc="527716135" ref="index"/>
     <file name="require.js" crc="7928878" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index"/>
   </folder>
   <folder name="images">
     <file name="logo.png" crc="3777414413" seo="true" ref="index">
@@ -240,6 +241,14 @@
     <file name="yp cover120x76_2x.jpg" crc="249995859" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="spaceoutlogo2.jpg" crc="511206722" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="spaceoutlogo2_2x.jpg" crc="325838681" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="spaceoutlogo2-u3514-fr.jpg" crc="3778867734" ref="index"/>
+    <file name="spaceoutlogo2-u3514-fr_2x.jpg" crc="4184973314" ref="index"/>
   </folder>
-  <file name="index.html" crc="2001854" seo="true" mt="1633379173936" redirect="true"/>
+  <file name="index.html" crc="352244462" seo="true" mt="1633424254401" redirect="true"/>
 </manifest>
