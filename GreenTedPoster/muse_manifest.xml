@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="pohsuchen1115.github.io/#GreenTedPoster" resolutions="1x,2x" timestamp="1642478779584">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="pohsuchen1115.github.io/#GreenTedPoster" resolutions="1x,2x" timestamp="1642479322759">
   <folder name="css">
     <file name="site_global.css" crc="524582882"/>
-    <file name="index.css" crc="3954465272" ref="index"/>
-    <file name="nomq_index.css" crc="4024584193" ref="index"/>
+    <file name="index.css" crc="3970246529" ref="index"/>
+    <file name="nomq_index.css" crc="127540647" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -64,13 +64,13 @@
     <file name="greentedfinal-01414x207_2x.jpg" crc="506770101" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="img_5410拷貝298x195.jpg" crc="160648807" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="img_5410拷貝298x195_2x.jpg" crc="210056900" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="img_5410拷貝414x271.jpg" crc="3954238537" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_5410拷貝414x271_2x.jpg" crc="241390279" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="3797217288" seo="true" mt="1642478646426" redirect="true"/>
+  <file name="index.html" crc="3807710272" seo="true" mt="1642479311030" redirect="true"/>
 </manifest>
