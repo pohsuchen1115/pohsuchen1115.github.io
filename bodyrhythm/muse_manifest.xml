@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="pohsuchen1115.github.io/#bodyrhythm" resolutions="1x,2x" timestamp="1642586806757">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="pohsuchen1115.github.io/#bodyrhythm" resolutions="1x,2x" timestamp="1642586950769">
   <folder name="css">
     <file name="site_global.css" crc="524582882"/>
     <file name="index.css" crc="291507316" ref="index"/>
@@ -96,5 +96,5 @@
     </file>
     <file name="blank.gif" crc="4208392903" ref="index"/>
   </folder>
-  <file name="index.html" crc="4251407219" seo="true" mt="1642586785483" redirect="true"/>
+  <file name="index.html" crc="3776189670" seo="true" mt="1642586930873" redirect="true"/>
 </manifest>
