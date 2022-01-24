@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="pohsuchen1115.github.io/#ChouYueh" resolutions="1x,2x" timestamp="1642999105027">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="pohsuchen1115.github.io/#ChouYueh" resolutions="1x,2x" timestamp="1642999852451">
   <folder name="css">
     <file name="site_global.css" crc="513467885"/>
-    <file name="index.css" crc="159082078" ref="index"/>
+    <file name="index.css" crc="116932347" ref="index"/>
     <file name="nomq_index.css" crc="4030354671" ref="index"/>
   </folder>
   <folder name="scripts">
@@ -96,30 +96,6 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="chouyueh299x113.png" crc="3938929181" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="chouyueh299x113_2x.png" crc="501639055" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="222222299x113.png" crc="88156138" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="222222299x113_2x.png" crc="438126886" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="33333298x113.png" crc="4081201179" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="33333298x113_2x.png" crc="3835389819" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="444444299x113.png" crc="221125072" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="444444299x113_2x.png" crc="4141217976" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="logo proportion315x382.png" crc="3980109751" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -132,6 +108,30 @@
     <file name="logo guideline323x374_2x.png" crc="517490019" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="chouyueh289x109.png" crc="3980984225" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="chouyueh289x109_2x.png" crc="410162307" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="222222289x109.png" crc="443418763" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="222222289x109_2x.png" crc="36785024" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="33333288x109.png" crc="4123725566" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="33333288x109_2x.png" crc="335593103" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="444444289x109.png" crc="3872107394" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="444444289x109_2x.png" crc="55811613" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="4188279483" seo="true" mt="1642999074312" redirect="true"/>
+  <file name="index.html" crc="508093439" seo="true" mt="1642999815801" redirect="true"/>
 </manifest>
