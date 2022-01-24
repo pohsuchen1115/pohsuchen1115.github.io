@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://pohsuchen1115.github.io/index.html</loc>
-    <lastmod>2022-01-18</lastmod>
+    <lastmod>2022-01-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -58,12 +58,6 @@
     </image:image>
     <image:image>
       <image:loc>http://pohsuchen1115.github.io/images/img_9483_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://pohsuchen1115.github.io/images/3-01_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://pohsuchen1115.github.io/images/3-01_2x_2x.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://pohsuchen1115.github.io/images/img_8659%203.jpg</image:loc>
@@ -168,12 +162,6 @@
       <image:loc>http://pohsuchen1115.github.io/images/img_9483120x85_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://pohsuchen1115.github.io/images/3-01_2x120x162.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://pohsuchen1115.github.io/images/3-01_2x120x162_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://pohsuchen1115.github.io/images/img_8659%203120x74.jpg</image:loc>
     </image:image>
     <image:image>
@@ -226,6 +214,66 @@
     </image:image>
     <image:image>
       <image:loc>http://pohsuchen1115.github.io/images/img_5410%E6%8B%B7%E8%B2%9D120x79_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pohsuchen1115.github.io/images/chouyueh.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pohsuchen1115.github.io/images/chouyueh_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pohsuchen1115.github.io/images/222222.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pohsuchen1115.github.io/images/222222_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pohsuchen1115.github.io/images/33333.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pohsuchen1115.github.io/images/33333_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pohsuchen1115.github.io/images/444444.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pohsuchen1115.github.io/images/444444_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pohsuchen1115.github.io/images/img_6256.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pohsuchen1115.github.io/images/img_6256_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pohsuchen1115.github.io/images/chouyueh82x31.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pohsuchen1115.github.io/images/chouyueh82x31_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pohsuchen1115.github.io/images/22222282x31.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pohsuchen1115.github.io/images/22222282x31_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pohsuchen1115.github.io/images/3333381x31.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pohsuchen1115.github.io/images/3333381x31_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pohsuchen1115.github.io/images/44444482x31.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pohsuchen1115.github.io/images/44444482x31_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pohsuchen1115.github.io/images/img_6256120x121.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pohsuchen1115.github.io/images/img_6256120x121_2x.jpg</image:loc>
     </image:image>
   </url>
 </urlset>
