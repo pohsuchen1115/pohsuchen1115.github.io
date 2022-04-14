@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://pohsuchen1115.github.io/index.html</loc>
-    <lastmod>2022-02-05</lastmod>
+    <lastmod>2022-04-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -274,6 +274,18 @@
     </image:image>
     <image:image>
       <image:loc>http://pohsuchen1115.github.io/images/444p-01120x69_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pohsuchen1115.github.io/images/img_8702.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pohsuchen1115.github.io/images/img_8702_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pohsuchen1115.github.io/images/img_8702120x80.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pohsuchen1115.github.io/images/img_8702120x80_2x.jpg</image:loc>
     </image:image>
   </url>
 </urlset>
