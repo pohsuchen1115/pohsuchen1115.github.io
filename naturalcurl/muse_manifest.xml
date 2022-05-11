@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="pohsuchen1115.github.io/#naturalcurl" resolutions="1x,2x" timestamp="1626329103829">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="pohsuchen1115.github.io/#naturalcurl" resolutions="1x,2x" timestamp="1652300425217">
   <folder name="css">
-    <file name="site_global.css" crc="524582882"/>
-    <file name="index.css" crc="5363134" ref="index"/>
+    <file name="site_global.css" crc="4139458515"/>
+    <file name="index.css" crc="4223386143" ref="index"/>
     <file name="nomq_index.css" crc="3816438211" ref="index"/>
   </folder>
   <folder name="scripts">
@@ -18,7 +18,7 @@
     <file name="jquery.museresponsive.js" crc="527716135" ref="index"/>
   </folder>
   <folder name="images">
-    <file name="1.jpg" crc="4216185210" seo="true" ref="index">
+    <file name="1.jpg" crc="4083060920" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="2.jpg" crc="6681679" seo="true" ref="index">
@@ -94,7 +94,7 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="1414x304.jpg" crc="130833495" seo="true" ref="index">
+    <file name="1414x304.jpg" crc="76971642" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="2207x174.jpg" crc="4107978066" seo="true" ref="index">
@@ -137,5 +137,5 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="455626059" seo="true" mt="1626329059829" redirect="true"/>
+  <file name="index.html" crc="187604116" seo="true" mt="1652300359425" redirect="true"/>
 </manifest>
