@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="pohsuchen1115.github.io/#info" resolutions="1x,2x" timestamp="1630956719544">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="pohsuchen1115.github.io/#info" resolutions="1x,2x" timestamp="1653378296763">
   <folder name="images">
     <file name="rights.png" crc="439214979" seo="true" ref="index">
       <caption webpage="index" alt=""/>
@@ -9,11 +9,39 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="logo.png" crc="3777414413" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo_2x.png" crc="4197615495" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="proportion-01497x351.png" crc="4231237603" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="proportion-01497x351_2x.png" crc="26281787" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="iiinniifofoo-01.png" crc="363645312" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="iiinniifofoo-01_2x.png" crc="4155322235" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="proportion-01.png" crc="4202314326" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="proportion-01_2x.png" crc="3812247210" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="4104923694" ref="index"/>
-    <file name="nomq_index.css" crc="4042167562" ref="index"/>
+    <file name="index.css" crc="470732173" ref="index"/>
+    <file name="nomq_index.css" crc="392744737" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -24,5 +52,5 @@
     <file name="require.js" crc="7928878" ref="index"/>
     <file name="jquery.museresponsive.js" crc="527716135" ref="index"/>
   </folder>
-  <file name="index.html" crc="4102386932" seo="true" mt="1630956676344" redirect="true"/>
+  <file name="index.html" crc="137455167" seo="true" mt="1653318496819" redirect="true"/>
 </manifest>
