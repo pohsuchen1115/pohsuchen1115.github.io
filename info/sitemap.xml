@@ -65,5 +65,23 @@
     <image:image>
       <image:loc>http://pohsuchen1115.github.io/#info/images/planttingmatephors-01360x230_2x.png</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://pohsuchen1115.github.io/#info/images/logo1.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pohsuchen1115.github.io/#info/images/logo1_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pohsuchen1115.github.io/#info/images/logo2.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pohsuchen1115.github.io/#info/images/logo2_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pohsuchen1115.github.io/#info/images/logo3.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pohsuchen1115.github.io/#info/images/logo3_2x.png</image:loc>
+    </image:image>
   </url>
 </urlset>
