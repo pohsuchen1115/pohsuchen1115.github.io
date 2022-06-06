@@ -18,24 +18,6 @@
       <image:loc>http://pohsuchen1115.github.io/#info/images/logo_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://pohsuchen1115.github.io/#info/images/metaphorsfromdesign-01565x360.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://pohsuchen1115.github.io/#info/images/metaphorsfromdesign-01565x360_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://pohsuchen1115.github.io/#info/images/metaphorsfordesign565x359.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://pohsuchen1115.github.io/#info/images/metaphorsfordesign565x359_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://pohsuchen1115.github.io/#info/images/planttingmatephors-01565x360.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://pohsuchen1115.github.io/#info/images/planttingmatephors-01565x360_2x.png</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://pohsuchen1115.github.io/#info/images/newquotes-01.png</image:loc>
     </image:image>
     <image:image>
@@ -60,10 +42,28 @@
       <image:loc>http://pohsuchen1115.github.io/#info/images/planttingmatephors-01_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://pohsuchen1115.github.io/#info/images/newquotes-01562x97.png</image:loc>
+      <image:loc>http://pohsuchen1115.github.io/#info/images/newquotes-01360x63.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://pohsuchen1115.github.io/#info/images/newquotes-01562x97_2x.png</image:loc>
+      <image:loc>http://pohsuchen1115.github.io/#info/images/newquotes-01360x63_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pohsuchen1115.github.io/#info/images/metaphorsfromdesign-01360x230.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pohsuchen1115.github.io/#info/images/metaphorsfromdesign-01360x230_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pohsuchen1115.github.io/#info/images/metaphorsfordesign360x229.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pohsuchen1115.github.io/#info/images/metaphorsfordesign360x229_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pohsuchen1115.github.io/#info/images/planttingmatephors-01360x230.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pohsuchen1115.github.io/#info/images/planttingmatephors-01360x230_2x.png</image:loc>
     </image:image>
   </url>
 </urlset>
