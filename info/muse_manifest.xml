@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="pohsuchen1115.github.io/#info" resolutions="1x,2x" timestamp="1653378296763">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="pohsuchen1115.github.io/#info" resolutions="1x,2x" timestamp="1654533886225">
   <folder name="images">
     <file name="rights.png" crc="439214979" seo="true" ref="index">
       <caption webpage="index" alt=""/>
@@ -17,31 +17,60 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="proportion-01497x351.png" crc="4231237603" seo="true" ref="index">
+    <file name="metaphorsfromdesign-01565x360.png" crc="401761837" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="proportion-01497x351_2x.png" crc="26281787" seo="true" ref="index">
+    <file name="metaphorsfromdesign-01565x360_2x.png" crc="3907021533" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="iiinniifofoo-01.png" crc="363645312" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="iiinniifofoo-01_2x.png" crc="4155322235" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
+    <file name="metaphorsfordesign565x359.png" crc="3995025236" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="proportion-01.png" crc="4202314326" seo="true" ref="index">
+    <file name="metaphorsfordesign565x359_2x.png" crc="42582149" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="proportion-01_2x.png" crc="3812247210" seo="true" ref="index">
+    <file name="planttingmatephors-01565x360.png" crc="181842652" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="planttingmatephors-01565x360_2x.png" crc="3994976707" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="newquotes-01.png" crc="86851526" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="newquotes-01_2x.png" crc="216568913" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="metaphorsfromdesign-01.png" crc="335365949" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="metaphorsfromdesign-01_2x.png" crc="4217061878" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="metaphorsfordesign.png" crc="396576289" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="metaphorsfordesign_2x.png" crc="316810220" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="planttingmatephors-01.png" crc="321130661" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="planttingmatephors-01_2x.png" crc="525607469" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="newquotes-01562x97.png" crc="3867131838" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="newquotes-01562x97_2x.png" crc="216568913" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
   </folder>
   <folder name="css">
-    <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="470732173" ref="index"/>
-    <file name="nomq_index.css" crc="392744737" ref="index"/>
+    <file name="site_global.css" crc="265018804"/>
+    <file name="index.css" crc="4254129788" ref="index"/>
+    <file name="nomq_index.css" crc="4143809758" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -51,6 +80,10 @@
     <file name="jquery.watch.js" crc="51536988" ref="index"/>
     <file name="require.js" crc="7928878" ref="index"/>
     <file name="jquery.museresponsive.js" crc="527716135" ref="index"/>
+    <file name="webpro.js" crc="4059564322" ref="index"/>
+    <file name="musewpslideshow.js" crc="3862962738" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="4147669564" ref="index"/>
+    <file name="touchswipe.js" crc="4075097462" ref="index"/>
   </folder>
-  <file name="index.html" crc="137455167" seo="true" mt="1653318496819" redirect="true"/>
+  <file name="index.html" crc="353327130" seo="true" mt="1654533748386" redirect="true"/>
 </manifest>
