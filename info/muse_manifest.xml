@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="pohsuchen1115.github.io/#info" resolutions="1x,2x" timestamp="1654539742319">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="pohsuchen1115.github.io/#info" resolutions="1x,2x" timestamp="1654681292601">
   <folder name="images">
     <file name="rights.png" crc="439214979" seo="true" ref="index">
       <caption webpage="index" alt=""/>
@@ -92,9 +92,9 @@
     </file>
   </folder>
   <folder name="css">
-    <file name="site_global.css" crc="265018804"/>
-    <file name="index.css" crc="3937633628" ref="index"/>
-    <file name="nomq_index.css" crc="4131367990" ref="index"/>
+    <file name="site_global.css" crc="163807420"/>
+    <file name="index.css" crc="4171513274" ref="index"/>
+    <file name="nomq_index.css" crc="4055929134" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -109,5 +109,5 @@
     <file name="jquery.museoverlay.js" crc="4147669564" ref="index"/>
     <file name="touchswipe.js" crc="4075097462" ref="index"/>
   </folder>
-  <file name="index.html" crc="3905473624" seo="true" mt="1654539678609" redirect="true"/>
+  <file name="index.html" crc="4253611687" seo="true" mt="1654681262902" redirect="true"/>
 </manifest>
