@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="pohsuchen1115.github.io/#contact" resolutions="1x,2x" timestamp="1655213449031">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="pohsuchen1115.github.io/#contact" resolutions="1x,2x" timestamp="1655223548637">
   <folder name="css">
     <file name="site_global.css" crc="4229264007"/>
-    <file name="index.css" crc="3802942129" ref="index"/>
-    <file name="nomq_index.css" crc="504249779" ref="index"/>
+    <file name="index.css" crc="88513262" ref="index"/>
+    <file name="nomq_index.css" crc="4140745177" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -36,5 +36,5 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="3831916766" seo="true" mt="1655213308018" redirect="true"/>
+  <file name="index.html" crc="4095106572" seo="true" mt="1655223536348" redirect="true"/>
 </manifest>
