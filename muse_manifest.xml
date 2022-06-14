@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="pohsuchen1115.github.io" resolutions="1x,2x" timestamp="1654681897497">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="pohsuchen1115.github.io" resolutions="1x,2x" timestamp="1655196667905">
   <folder name="css">
     <file name="site_global.css" crc="424494166"/>
-    <file name="index.css" crc="479085132" ref="index"/>
-    <file name="nomq_index.css" crc="150960536" ref="index"/>
+    <file name="index.css" crc="418683136" ref="index"/>
+    <file name="nomq_index.css" crc="356063122" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -33,10 +33,10 @@
     <file name="專刊商品照-000_2x.jpg" crc="525061121" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="cover use.jpg" crc="4139874491" seo="true" ref="index">
+    <file name="cover use.jpg" crc="219161932" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="cover use_2x.jpg" crc="250671251" seo="true" ref="index">
+    <file name="cover use_2x.jpg" crc="4119025439" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="motion40cm31-01.jpg" crc="4291233554" seo="true" ref="index">
@@ -143,12 +143,6 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="專刊商品照-000120x96_2x.jpg" crc="4276331084" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="cover use120x79.jpg" crc="3839852123" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="cover use120x79_2x.jpg" crc="422358012" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="motion40cm31-01120x120.jpg" crc="446004815" seo="true" ref="index">
@@ -321,6 +315,12 @@
     <file name="img_8702120x80_2x.jpg" crc="241067457" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="cover use122x80.jpg" crc="3947344241" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="cover use122x80_2x.jpg" crc="3776071758" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="4108915351" seo="true" mt="1654681862672" redirect="true"/>
+  <file name="index.html" crc="4048210805" seo="true" mt="1655196626355" redirect="true"/>
 </manifest>
