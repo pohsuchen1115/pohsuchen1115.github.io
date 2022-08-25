@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="pohsuchen1115.github.io/#UnmailedLetter" resolutions="1x,2x" timestamp="1650295926564">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="pohsuchen1115.github.io/#UnmailedLetter" resolutions="1x,2x" timestamp="1661406664461">
   <folder name="css">
-    <file name="site_global.css" crc="513467885"/>
-    <file name="index.css" crc="4236943108" ref="index"/>
+    <file name="site_global.css" crc="4150625756"/>
+    <file name="index.css" crc="3826216098" ref="index"/>
     <file name="nomq_index.css" crc="3801777860" ref="index"/>
   </folder>
   <folder name="scripts">
@@ -195,5 +195,5 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="4053604950" seo="true" mt="1650295820817" redirect="true"/>
+  <file name="index.html" crc="4049009454" seo="true" mt="1661406621603" redirect="true"/>
 </manifest>

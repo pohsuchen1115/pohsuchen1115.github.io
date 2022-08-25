@@ -16,8 +16,8 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
   
   <title>UnmailedLetter</title>
   <!-- CSS -->
-  <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=513467885"/>
-  <link rel="stylesheet" type="text/css" href="css/index.css?crc=4236943108" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=4150625756"/>
+  <link rel="stylesheet" type="text/css" href="css/index.css?crc=3826216098" id="pagesheet"/>
   <!-- IE-only CSS -->
   <!--[if lt IE 9]>
   <link rel="stylesheet" type="text/css" href="css/nomq_index.css?crc=3801777860" id="nomq_pagesheet"/>
@@ -44,7 +44,7 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
            <p>Introduction /</p>
           </div>
           <div class="clearfix grpelem shared_content" id="u4531-4" data-content-guid="u4531-4_content"><!-- content -->
-           <p>The &quot;unmailed letter&quot; focuses on the mixed communication of text and medium. The letter what I wrote was thinking about the relationship between the author ( writer and sender) and the audience ( reader and recipient).</p>
+           <p>The &quot;unmailed letter&quot; focuses on the mixed communication of text and medium. The letter what I wrote was thinking about the relationship between the author(writer and sender) and the audience(reader and recipient).</p>
           </div>
          </div>
         </div>
@@ -239,11 +239,11 @@ Muse.Utils.makeButtonsVisibleAfterSettingMinWidth();/* body */
 Muse.Utils.initWidget('#slideshowu4120', ['#bp_infinity', '#bp_414'], function(elem) { var widget = new WebPro.Widget.ContentSlideShow(elem, {autoPlay:true,displayInterval:3000,slideLinkStopsSlideShow:false,transitionStyle:'fading',lightboxEnabled_runtime:false,shuffle:false,transitionDuration:1200,enableSwipe:true,elastic:'off',resumeAutoplay:true,resumeAutoplayInterval:4500,playOnce:false,autoActivate_runtime:false,isResponsive:false}); $(elem).data('widget', widget); return widget; });/* #slideshowu4120 */
 Muse.Utils.initWidget('#slideshowu3111', ['#bp_infinity', '#bp_414'], function(elem) { var widget = new WebPro.Widget.ContentSlideShow(elem, {autoPlay:true,displayInterval:4000,slideLinkStopsSlideShow:false,transitionStyle:'fading',lightboxEnabled_runtime:false,shuffle:false,transitionDuration:1200,enableSwipe:true,elastic:'off',resumeAutoplay:true,resumeAutoplayInterval:4500,playOnce:false,autoActivate_runtime:false,isResponsive:false}); $(elem).data('widget', widget); return widget; });/* #slideshowu3111 */
 Muse.Utils.fullPage('#page');/* 100% height page */
-$('#bp_414').one('muse_this_bp_activate', function(){
-$('#u3086').registerBackgroundPositionScrollEffect([{"speed":[0,0.9],"in":[-Infinity,0]},{"speed":[0,0.9],"in":[0,Infinity]}], $(this)); /* scroll effect */
-});/* scroll effects for one breakpoint */
 $('#bp_infinity').one('muse_this_bp_activate', function(){
-$('#u3086').registerBackgroundPositionScrollEffect([{"speed":[0,0.9],"in":[-Infinity,0]},{"speed":[0,0.9],"in":[0,Infinity]}], $(this)); /* scroll effect */
+$('#u3086').registerBackgroundPositionScrollEffect([{"in":[-Infinity,0],"speed":[0,0.9]},{"in":[0,Infinity],"speed":[0,0.9]}], $(this)); /* scroll effect */
+});/* scroll effects for one breakpoint */
+$('#bp_414').one('muse_this_bp_activate', function(){
+$('#u3086').registerBackgroundPositionScrollEffect([{"in":[-Infinity,0],"speed":[0,0.9]},{"in":[0,Infinity],"speed":[0,0.9]}], $(this)); /* scroll effect */
 });/* scroll effects for one breakpoint */
 $( '.breakpoint' ).registerBreakpoint();/* Register breakpoints */
 Muse.Utils.transformMarkupToFixBrowserProblems();/* body */
