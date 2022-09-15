@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="pohsuchen1115.github.io/#paivisualidentity" resolutions="1x,2x" timestamp="1663221802566">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="pohsuchen1115.github.io/#paivisualidentity" resolutions="1x,2x" timestamp="1663225300784">
   <folder name="css">
     <file name="site_global.css" crc="4150625756"/>
     <file name="index.css" crc="329114302" ref="index"/>
@@ -169,5 +169,5 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="4164857817" seo="true" mt="1663221700824" redirect="true"/>
+  <file name="index.html" crc="3760621237" seo="true" mt="1663225217553" redirect="true"/>
 </manifest>
