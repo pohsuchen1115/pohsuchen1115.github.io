@@ -17,10 +17,10 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
   <title>UnmailedLetter</title>
   <!-- CSS -->
   <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=4150625756"/>
-  <link rel="stylesheet" type="text/css" href="css/index.css?crc=3826216098" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/index.css?crc=164951040" id="pagesheet"/>
   <!-- IE-only CSS -->
   <!--[if lt IE 9]>
-  <link rel="stylesheet" type="text/css" href="css/nomq_index.css?crc=3801777860" id="nomq_pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/nomq_index.css?crc=112534081" id="nomq_pagesheet"/>
   <![endif]-->
    </head>
  <body>
@@ -32,8 +32,7 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
       <div class="museBGSize" id="u3086"><!-- group -->
        <div class="clearfix" id="u3086_align_to_page">
         <a class="anchor_item grpelem shared_content" id="toppppp" data-content-guid="toppppp_content"></a>
-        <div class="clearfix grpelem" id="pu3410"><!-- column -->
-         <div class="colelem shared_content" id="u3410" data-content-guid="u3410_content"><!-- simple frame --></div>
+        <div class="clearfix grpelem" id="pu4331"><!-- column -->
          <div class="clearfix colelem shared_content" id="u4331" data-content-guid="u4331_content"><!-- group -->
           <a class="nonblock nontext clearfix grpelem" id="u4334-4" href="https://pohsuchen1115.github.io"><!-- content --><p><span id="u4334">Projects</span></p></a>
           <a class="nonblock nontext clearfix grpelem" id="u4332-4" href="https://pohsuchen1115.github.io/info/"><!-- content --><p><span id="u4332">Info</span></p></a>
@@ -142,7 +141,6 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
     <div class="clearfix grpelem temp_no_id" data-orig-id="pu3086"><!-- column -->
      <div class="museBGSize clearfix colelem temp_no_id" data-orig-id="u3086"><!-- group -->
       <span class="anchor_item grpelem placeholder" data-placeholder-for="toppppp_content"><!-- placeholder node --></span>
-      <span class="grpelem placeholder" data-placeholder-for="u3410_content"><!-- placeholder node --></span>
      </div>
      <div class="clearfix colelem temp_no_id" data-orig-id="u4807"><!-- column -->
       <span class="clearfix colelem placeholder" data-placeholder-for="u4653-4_content"><!-- placeholder node --></span>
@@ -199,7 +197,7 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
      </div>
     </div>
     <div class="verticalspacer" data-offset-top="1718" data-content-above-spacer="1718" data-content-below-spacer="62"></div>
-    <div class="clearfix grpelem" id="pu4331"><!-- column -->
+    <div class="clearfix grpelem temp_no_id" data-orig-id="pu4331"><!-- column -->
      <span class="clearfix colelem placeholder" data-placeholder-for="u4331_content"><!-- placeholder node --></span>
      <div class="clearfix colelem temp_no_id" data-orig-id="u3085"><!-- group -->
       <div class="clearfix grpelem temp_no_id" data-orig-id="u4831"><!-- column -->
@@ -239,11 +237,11 @@ Muse.Utils.makeButtonsVisibleAfterSettingMinWidth();/* body */
 Muse.Utils.initWidget('#slideshowu4120', ['#bp_infinity', '#bp_414'], function(elem) { var widget = new WebPro.Widget.ContentSlideShow(elem, {autoPlay:true,displayInterval:3000,slideLinkStopsSlideShow:false,transitionStyle:'fading',lightboxEnabled_runtime:false,shuffle:false,transitionDuration:1200,enableSwipe:true,elastic:'off',resumeAutoplay:true,resumeAutoplayInterval:4500,playOnce:false,autoActivate_runtime:false,isResponsive:false}); $(elem).data('widget', widget); return widget; });/* #slideshowu4120 */
 Muse.Utils.initWidget('#slideshowu3111', ['#bp_infinity', '#bp_414'], function(elem) { var widget = new WebPro.Widget.ContentSlideShow(elem, {autoPlay:true,displayInterval:4000,slideLinkStopsSlideShow:false,transitionStyle:'fading',lightboxEnabled_runtime:false,shuffle:false,transitionDuration:1200,enableSwipe:true,elastic:'off',resumeAutoplay:true,resumeAutoplayInterval:4500,playOnce:false,autoActivate_runtime:false,isResponsive:false}); $(elem).data('widget', widget); return widget; });/* #slideshowu3111 */
 Muse.Utils.fullPage('#page');/* 100% height page */
-$('#bp_infinity').one('muse_this_bp_activate', function(){
-$('#u3086').registerBackgroundPositionScrollEffect([{"in":[-Infinity,0],"speed":[0,0.9]},{"in":[0,Infinity],"speed":[0,0.9]}], $(this)); /* scroll effect */
-});/* scroll effects for one breakpoint */
 $('#bp_414').one('muse_this_bp_activate', function(){
-$('#u3086').registerBackgroundPositionScrollEffect([{"in":[-Infinity,0],"speed":[0,0.9]},{"in":[0,Infinity],"speed":[0,0.9]}], $(this)); /* scroll effect */
+$('#u3086').registerBackgroundPositionScrollEffect([{"speed":[0,0.9],"in":[-Infinity,0]},{"speed":[0,0.9],"in":[0,Infinity]}], $(this)); /* scroll effect */
+});/* scroll effects for one breakpoint */
+$('#bp_infinity').one('muse_this_bp_activate', function(){
+$('#u3086').registerBackgroundPositionScrollEffect([{"speed":[0,0.9],"in":[-Infinity,0]},{"speed":[0,0.9],"in":[0,Infinity]}], $(this)); /* scroll effect */
 });/* scroll effects for one breakpoint */
 $( '.breakpoint' ).registerBreakpoint();/* Register breakpoints */
 Muse.Utils.transformMarkupToFixBrowserProblems();/* body */
