@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="pohsuchen1115.github.io" resolutions="1x,2x" timestamp="1655196667905">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="pohsuchen1115.github.io" resolutions="1x,2x" timestamp="1663821644497">
   <folder name="css">
     <file name="site_global.css" crc="424494166"/>
-    <file name="index.css" crc="418683136" ref="index"/>
-    <file name="nomq_index.css" crc="356063122" ref="index"/>
+    <file name="index.css" crc="530892" ref="index"/>
+    <file name="nomq_index.css" crc="412261376" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -139,54 +139,6 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="專刊商品照-000120x96.jpg" crc="44404921" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="專刊商品照-000120x96_2x.jpg" crc="4276331084" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="motion40cm31-01120x120.jpg" crc="446004815" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="motion40cm31-01120x120_2x.jpg" crc="193340717" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="motion40cm32-01120x120.jpg" crc="402423070" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="motion40cm32-01120x120_2x.jpg" crc="325543712" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="motion40cm33-01120x120.jpg" crc="4008957526" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="motion40cm33-01120x120_2x.jpg" crc="225984673" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="motion40cm34-01120x120.jpg" crc="4083506847" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="motion40cm34-01120x120_2x.jpg" crc="383743868" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="peacevswar_2x120x170.jpg" crc="4208872694" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="peacevswar_2x120x170_2x.jpg" crc="297556588" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="img_9483120x85.jpg" crc="3961849936" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="img_9483120x85_2x.jpg" crc="3962868305" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="img_8659 3120x74.jpg" crc="322915858" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="img_8659 3120x74_2x.jpg" crc="3984706929" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="img_4950185x107.jpg" crc="529480414" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -217,42 +169,24 @@
     <file name="yp cover_2x.jpg" crc="217459000" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="yp cover120x76.jpg" crc="196725795" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="yp cover120x76_2x.jpg" crc="249995859" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="spaceoutlogo2.jpg" crc="242338196" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="spaceoutlogo2_2x.jpg" crc="321877163" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="spaceoutlogo2-u3514-fr.jpg" crc="317515355" ref="index"/>
-    <file name="spaceoutlogo2-u3514-fr_2x.jpg" crc="3811988952" ref="index"/>
+    <file name="spaceoutlogo2-u3514-fr.jpg" crc="3935133786" ref="index"/>
+    <file name="spaceoutlogo2-u3514-fr_2x.jpg" crc="236304305" ref="index"/>
     <file name="img_5410拷貝.jpg" crc="4216623044" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="img_5410拷貝_2x.jpg" crc="4163808711" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="img_5410拷貝120x79.jpg" crc="4102212363" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="img_5410拷貝120x79_2x.jpg" crc="405214770" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="img_6256.jpg" crc="4117711477" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="img_6256_2x.jpg" crc="4229289681" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="img_6256120x120.jpg" crc="330398556" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="img_6256120x120_2x.jpg" crc="84479054" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="111p-01.jpg" crc="222717460" seo="true" ref="index">
@@ -279,48 +213,126 @@
     <file name="444p-01_2x.jpg" crc="226871058" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="111p-01120x69.jpg" crc="417221428" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="111p-01120x69_2x.jpg" crc="4113371695" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="222p-01120x69.jpg" crc="11609162" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="222p-01120x69_2x.jpg" crc="3794325002" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="333p-01120x69.jpg" crc="3831777500" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="333p-01120x69_2x.jpg" crc="4279215466" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="444p-01120x69.jpg" crc="4211938059" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="444p-01120x69_2x.jpg" crc="4103870558" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="img_8702.jpg" crc="4075005636" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="img_8702_2x.jpg" crc="4277992252" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="img_8702120x80.jpg" crc="391188126" seo="true" ref="index">
+    <file name="pai_webcoveruse.jpg" crc="117758694" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="img_8702120x80_2x.jpg" crc="241067457" seo="true" ref="index">
+    <file name="pai_webcoveruse_2x.jpg" crc="298618809" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="cover use122x80.jpg" crc="3947344241" seo="true" ref="index">
+    <file name="專刊商品照-000185x147.jpg" crc="4164111630" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="cover use122x80_2x.jpg" crc="3776071758" seo="true" ref="index">
+    <file name="專刊商品照-000185x147_2x.jpg" crc="3836153414" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_8702185x124.jpg" crc="463706944" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_8702185x124_2x.jpg" crc="4195989282" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="cover use187x123.jpg" crc="28710087" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="cover use187x123_2x.jpg" crc="293372095" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_9483185x131.jpg" crc="54009651" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_9483185x131_2x.jpg" crc="534729116" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="yp cover185x117.jpg" crc="3992055804" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="yp cover185x117_2x.jpg" crc="1227284" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pai_webcoveruse185x124.jpg" crc="3897181630" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pai_webcoveruse185x124_2x.jpg" crc="4115649275" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="111p-01185x107.jpg" crc="398596581" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="111p-01185x107_2x.jpg" crc="511858796" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="222p-01185x107.jpg" crc="130778019" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="222p-01185x107_2x.jpg" crc="4277018245" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="333p-01185x107.jpg" crc="4150024611" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="333p-01185x107_2x.jpg" crc="484333145" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="444p-01185x107.jpg" crc="415235137" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="444p-01185x107_2x.jpg" crc="3803067277" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_5410拷貝185x121.jpg" crc="234136900" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_5410拷貝185x121_2x.jpg" crc="14627041" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_8659 3185x115.jpg" crc="76710043" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_8659 3185x115_2x.jpg" crc="240706253" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_6256185x185.jpg" crc="4095108121" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_6256185x185_2x.jpg" crc="333415149" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="peacevswar_2x185x262.jpg" crc="381375004" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="peacevswar_2x185x262_2x.jpg" crc="3862499768" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="motion40cm31-01185x185.jpg" crc="3947327612" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="motion40cm31-01185x185_2x.jpg" crc="87874452" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="motion40cm32-01185x185.jpg" crc="394321069" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="motion40cm32-01185x185_2x.jpg" crc="386353039" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="motion40cm33-01185x185.jpg" crc="3771100151" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="motion40cm33-01185x185_2x.jpg" crc="58383016" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="motion40cm34-01185x185.jpg" crc="4170520005" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="motion40cm34-01185x185_2x.jpg" crc="4749491" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="4048210805" seo="true" mt="1655196626355" redirect="true"/>
+  <file name="index.html" crc="3871329675" seo="true" mt="1663821591033" redirect="true"/>
 </manifest>
