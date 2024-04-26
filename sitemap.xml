@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://pohsuchen1115.github.io/index.html</loc>
-    <lastmod>2022-09-28</lastmod>
+    <lastmod>2024-04-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -298,6 +298,18 @@
     </image:image>
     <image:image>
       <image:loc>http://pohsuchen1115.github.io/images/motion40cm34-01185x185_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pohsuchen1115.github.io/images/mrscilogo-01.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pohsuchen1115.github.io/images/mrscilogo-01_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pohsuchen1115.github.io/images/mrscilogo-01185x136.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://pohsuchen1115.github.io/images/mrscilogo-01185x136_2x.jpg</image:loc>
     </image:image>
   </url>
 </urlset>

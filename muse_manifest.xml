@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="pohsuchen1115.github.io" resolutions="1x,2x" timestamp="1664352675194">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="pohsuchen1115.github.io" resolutions="1x,2x" timestamp="1714098581841">
   <folder name="css">
-    <file name="site_global.css" crc="424494166"/>
-    <file name="index.css" crc="473019669" ref="index"/>
-    <file name="nomq_index.css" crc="4004375548" ref="index"/>
+    <file name="site_global.css" crc="188165631"/>
+    <file name="index.css" crc="386124227" ref="index"/>
+    <file name="nomq_index.css" crc="3937121131" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -333,6 +333,18 @@
     <file name="motion40cm34-01185x185_2x.jpg" crc="4749491" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="mrscilogo-01.jpg" crc="223247128" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mrscilogo-01_2x.jpg" crc="113100710" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mrscilogo-01185x136.jpg" crc="4294429882" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mrscilogo-01185x136_2x.jpg" crc="4003168550" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="4073237243" seo="true" mt="1664352552075" redirect="true"/>
+  <file name="index.html" crc="477342674" seo="true" mt="1714098536776" redirect="true"/>
 </manifest>
