@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="pohsuchen1115.github.io/#info" resolutions="1x,2x" timestamp="1713921183631">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="pohsuchen1115.github.io/#info" resolutions="1x,2x" timestamp="1714099907731">
   <folder name="images">
     <file name="rights.png" crc="439214979" seo="true" ref="index">
       <caption webpage="index" alt=""/>
@@ -109,5 +109,5 @@
     <file name="jquery.museoverlay.js" crc="4147669564" ref="index"/>
     <file name="touchswipe.js" crc="4075097462" ref="index"/>
   </folder>
-  <file name="index.html" crc="4169958931" seo="true" mt="1713920978499" redirect="true"/>
+  <file name="index.html" crc="3856826027" seo="true" mt="1714099856514" redirect="true"/>
 </manifest>
