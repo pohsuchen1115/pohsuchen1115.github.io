@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="pohsuchen1115.github.io/# TaiwanFactCheckCenter" resolutions="1x,2x" timestamp="1714959573320">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="pohsuchen1115.github.io/# TaiwanFactCheckCenter" resolutions="1x,2x" timestamp="1714959822483">
   <folder name="css">
     <file name="site_global.css" crc="4150625756"/>
-    <file name="index.css" crc="33712118" ref="index"/>
+    <file name="index.css" crc="3813278448" ref="index"/>
     <file name="nomq_index.css" crc="4108129990" ref="index"/>
   </folder>
   <folder name="scripts">
@@ -57,8 +57,8 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="mockup2-u5039-fr.jpg" crc="3942770476" ref="index"/>
-    <file name="mockup2-u5039-fr_2x.jpg" crc="65252221" ref="index"/>
+    <file name="mockup2-u5039-fr.jpg" crc="77392519" ref="index"/>
+    <file name="mockup2-u5039-fr_2x.jpg" crc="210072705" ref="index"/>
     <file name="mockup414x274.jpg" crc="432309909" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -67,5 +67,5 @@
     </file>
     <file name="blank.gif" crc="4208392903" ref="index"/>
   </folder>
-  <file name="index.html" crc="101594137" seo="true" mt="1714959513369" redirect="true"/>
+  <file name="index.html" crc="4180411799" seo="true" mt="1714959805236" redirect="true"/>
 </manifest>
