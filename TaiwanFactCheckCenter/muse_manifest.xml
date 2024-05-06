@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="pohsuchen1115.github.io/# TaiwanFactCheckCenter" resolutions="1x,2x" timestamp="1714959822483">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="pohsuchen1115.github.io/# TaiwanFactCheckCenter" resolutions="1x,2x" timestamp="1714960034993">
   <folder name="css">
     <file name="site_global.css" crc="4150625756"/>
-    <file name="index.css" crc="3813278448" ref="index"/>
+    <file name="index.css" crc="3834985096" ref="index"/>
     <file name="nomq_index.css" crc="4108129990" ref="index"/>
   </folder>
   <folder name="scripts">
@@ -67,5 +67,5 @@
     </file>
     <file name="blank.gif" crc="4208392903" ref="index"/>
   </folder>
-  <file name="index.html" crc="4180411799" seo="true" mt="1714959805236" redirect="true"/>
+  <file name="index.html" crc="3865952967" seo="true" mt="1714960009965" redirect="true"/>
 </manifest>
