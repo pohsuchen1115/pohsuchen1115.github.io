@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="pohsuchen1115.github.io/# TaiwanFactCheckCenter" resolutions="1x,2x" timestamp="1714960034993">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="pohsuchen1115.github.io/# TaiwanFactCheckCenter" resolutions="1x,2x" timestamp="1714961604896">
   <folder name="css">
     <file name="site_global.css" crc="4150625756"/>
-    <file name="index.css" crc="3834985096" ref="index"/>
-    <file name="nomq_index.css" crc="4108129990" ref="index"/>
+    <file name="index.css" crc="4084132789" ref="index"/>
+    <file name="nomq_index.css" crc="4085367549" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -16,13 +16,13 @@
     <file name="require.js" crc="7928878" ref="index"/>
   </folder>
   <folder name="images">
-    <file name="mockup2.jpg" crc="3849213805" ref="index">
+    <file name="mockup2.jpg" crc="343434161" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="mockup.jpg" crc="4271890066" seo="true" ref="index">
+    <file name="mockup.jpg" crc="3944620546" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="mockup_2x.jpg" crc="4193956945" seo="true" ref="index">
+    <file name="mockup_2x.jpg" crc="44646008" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="rights.png" crc="439214979" seo="true" ref="index">
@@ -57,15 +57,15 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="mockup2-u5039-fr.jpg" crc="77392519" ref="index"/>
-    <file name="mockup2-u5039-fr_2x.jpg" crc="210072705" ref="index"/>
-    <file name="mockup414x274.jpg" crc="432309909" seo="true" ref="index">
+    <file name="mockup2-u5039-fr.jpg" crc="242302199" ref="index"/>
+    <file name="mockup2-u5039-fr_2x.jpg" crc="372271581" ref="index"/>
+    <file name="mockup414x274.jpg" crc="3929115777" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="mockup414x274_2x.jpg" crc="288659178" seo="true" ref="index">
+    <file name="mockup414x274_2x.jpg" crc="3783997328" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="blank.gif" crc="4208392903" ref="index"/>
   </folder>
-  <file name="index.html" crc="3865952967" seo="true" mt="1714960009965" redirect="true"/>
+  <file name="index.html" crc="4261666842" seo="true" mt="1714961506644" redirect="true"/>
 </manifest>
